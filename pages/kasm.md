@@ -4,5 +4,5 @@
 	  tar -xf kasm_release_1.12.0.d4fd8a.tar.gz
 	  sudo bash kasm_release/install.sh --accept-eula --swap-size 4096
 	- i clicked the link below on windows it downleaded [kasm_release_1.12.0.d4fd8a.tar.gz](../assets/kasm_release_1_1680127168867_0.12.0.d4fd8a.tar.gz)
-	- i know it supposed to be run on linux. obviously
+	- i know it supposed to be run on linux. obviously, just wanted to try
 	-
