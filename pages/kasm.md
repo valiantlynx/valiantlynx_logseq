@@ -1,1 +1,1 @@
-- from what i understand kasm allows you to create disposable computers.
+- from what i understand kasm allows you to create disposable computers. the one command you need to install
