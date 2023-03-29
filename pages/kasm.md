@@ -1,1 +1,1 @@
-- from what
+- from what i understand kasm allows you to create disposable computers.
