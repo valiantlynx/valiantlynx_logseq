@@ -12,6 +12,7 @@
 	- 5:00pm - Dinner
 	- 6:00pm - Fysikk1 study
 	- 8:00pm - Sleep
+	-
 -
 -
 - Tuesday:
