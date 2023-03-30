@@ -1,0 +1,54 @@
+{:blocks (
+{:block/content "import\n![el lab rap.png](../../../../../../assets/el_lab_rap_1680219153037_0.png)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64261c03-fa2e-421a-bf67-f331ca67ab16"}
+:block/parent 
+{:block/uuid #uuid "64261c03-fa2e-421a-bf67-f331ca67ab16"}
+:block/properties 
+{}
+:block/uuid #uuid "64261c0f-cfee-42bb-b78d-a4bb43cd8862"} 
+{:block/created-at 1680219154601
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "64261c0f-cfee-42bb-b78d-a4bb43cd8862"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 2190.27099609375]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "23b1e650-cf53-11ed-b7c8-71e33fd90152"
+:noFill false
+:point [299.5 326.16668701171875]
+:parentId "64261c03-fa2e-421a-bf67-f331ca67ab16"
+:collapsedHeight 0
+:nonce 1680219150654}}
+:block/updated-at 1680219154601})
+:pages (
+{:block/uuid #uuid "64261c03-fa2e-421a-bf67-f331ca67ab16"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "64261c03-fa2e-421a-bf67-f331ca67ab16"
+:name "el lab report"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("23b1e650-cf53-11ed-b7c8-71e33fd90152")}}
+:block/updated-at 1680219154601
+:block/created-at 1680219139635
+:block/type "whiteboard"
+:block/name "el lab report"
+:block/original-name "el lab report"})}
