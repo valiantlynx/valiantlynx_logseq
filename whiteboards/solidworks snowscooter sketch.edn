@@ -1,12 +1,14 @@
 {:blocks (
-{:block/content "import from microsoft"
+{:block/content "import from microsoft\n![Untitled whiteboard.pdf](../assets/Untitled_whiteboard_1680217748500_0.pdf)"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "64261669-ff75-4b68-b511-5ef13806ae0e"}
 :block/parent 
 {:block/uuid #uuid "64261669-ff75-4b68-b511-5ef13806ae0e"}
+:block/properties 
+{}
 :block/uuid #uuid "64261684-9dac-4cd0-a382-bb4efd7764be"} 
-{:block/created-at 1680217733270
+{:block/created-at 1680217751049
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -31,8 +33,8 @@
 :point [363.5 313.5]
 :parentId "64261669-ff75-4b68-b511-5ef13806ae0e"
 :collapsedHeight 0
-:nonce 1680217725899}}
-:block/updated-at 1680217733270})
+:nonce 1680217725904}}
+:block/updated-at 1680217751049})
 :pages (
 {:block/uuid #uuid "64261669-ff75-4b68-b511-5ef13806ae0e"
 :block/properties 
@@ -45,7 +47,7 @@
 :nonce 1
 :assets []
 :shapes-index ("d27a7480-cf4f-11ed-b7c8-71e33fd90152")}}
-:block/updated-at 1680217733270
+:block/updated-at 1680217751049
 :block/created-at 1680217705606
 :block/type "whiteboard"
 :block/name "solidworks snowscooter sketch"
