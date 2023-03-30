@@ -1,0 +1,140 @@
+{:highlights
+ [{:id #uuid "6401bdca-c75b-4b9d-9696-6b814ceee9e2",
+   :page 11,
+   :position
+   {:bounding
+    {:x1 65,
+     :y1 180.33349609375,
+     :x2 133,
+     :y2 199.33349609375,
+     :width 621,
+     :height 465.74999999999994},
+    :rects (),
+    :page 11},
+   :content {:text "[:span]", :image 1677835720577},
+   :properties {:color "yellow"}}
+  {:id #uuid "6401bdfe-a2ce-4ad1-84a9-8ca997cc48a9",
+   :page 12,
+   :position
+   {:bounding
+    {:x1 32,
+     :y1 188.33349609375,
+     :x2 315,
+     :y2 213.33349609375,
+     :width 621,
+     :height 465.74999999999994},
+    :rects (),
+    :page 12},
+   :content {:text "[:span]", :image 1677835815026},
+   :properties {:color "yellow"}}
+  {:id #uuid "6401bedc-3aa2-4bcf-afca-54a57647f3c1",
+   :page 12,
+   :position
+   {:bounding
+    {:x1 41.92700055870264,
+     :y1 186.35157272166867,
+     :x2 223.12490705284327,
+     :y2 211.35157272166867,
+     :width 534.9999999999999,
+     :height 401.24999999999994},
+    :rects (),
+    :page 12},
+   :content {:text "[:span]", :image 1677840220968},
+   :properties {:color "yellow"}}
+  {:id #uuid "6401c0b0-75dd-45a9-ad43-63c9dd28a9fc",
+   :page 14,
+   :position
+   {:bounding
+    {:x1 96.34708657860756,
+     :y1 181.27084350585938,
+     :x2 262.0026346743107,
+     :y2 198.60418701171875,
+     :width 621,
+     :height 465.74999999999994},
+    :rects
+    ({:x1 96.34708657860756,
+      :y1 181.27084350585938,
+      :x2 262.0026346743107,
+      :y2 198.60418701171875,
+      :width 621,
+      :height 465.74999999999994}),
+    :page 14},
+   :content {:text "ASTM grade 30 cast iron, "},
+   :properties {:color "yellow"}}
+  {:id #uuid "6401c307-9d51-4a25-83a7-b02d0e10bfba",
+   :page 17,
+   :position
+   {:bounding
+    {:x1 0,
+     :y1 -2,
+     :x2 343.5018106997013,
+     :y2 356.0312805175781,
+     :width 621,
+     :height 465.74999999999994},
+    :rects
+    ({:x1 0,
+      :y1 -2,
+      :x2 0,
+      :y2 17.333343505859375,
+      :width 621,
+      :height 465.74999999999994}
+     {:x1 38.01041665673256,
+      :y1 320.0729064941406,
+      :x2 270.5831095278263,
+      :y2 337.4062805175781,
+      :width 621,
+      :height 465.74999999999994}
+     {:x1 38.01041665673256,
+      :y1 338.6979064941406,
+      :x2 343.5018106997013,
+      :y2 356.0312805175781,
+      :width 621,
+      :height 465.74999999999994}),
+    :page 17},
+   :content
+   {:text
+    "As one would expect from inspection of this Fig, Coulomb-Mohr is more conservative."},
+   :properties {:color "yellow"}}
+  {:id #uuid "6401c323-42f4-4cc1-9a3d-1cdf267b1353",
+   :page 17,
+   :position
+   {:bounding
+    {:x1 146,
+     :y1 267.66650390625,
+     :x2 242,
+     :y2 293.66650390625,
+     :width 621,
+     :height 465.74999999999994},
+    :rects (),
+    :page 17},
+   :content {:text "[:span]", :image 1677837089845},
+   :properties {:color "yellow"}}
+  {:id #uuid "6401c33b-bb43-44d8-b1e9-45ad0de7d980",
+   :page 17,
+   :position
+   {:bounding
+    {:x1 212,
+     :y1 131.66650390625,
+     :x2 312,
+     :y2 156.66650390625,
+     :width 621,
+     :height 465.74999999999994},
+    :rects (),
+    :page 17},
+   :content {:text "[:span]", :image 1677837113755},
+   :properties {:color "yellow"}}
+  {:id #uuid "6401c442-289f-4ac5-813d-40d6e1846efb",
+   :page 21,
+   :position
+   {:bounding
+    {:x1 268,
+     :y1 186.3330078125,
+     :x2 288,
+     :y2 208.3330078125,
+     :width 621,
+     :height 465.74999999999994},
+    :rects (),
+    :page 21},
+   :content {:text "[:span]", :image 1677837376617},
+   :properties {:color "yellow"}}], 
+ :extra {:page 12}}

@@ -1,0 +1,36 @@
+{:highlights
+ [{:id #uuid "640af159-6141-4d6e-bce7-4c4b8b3ad397",
+   :page 5,
+   :position
+   {:bounding
+    {:x1 87.58333587646484,
+     :y1 217.5208282470703,
+     :x2 183.97384643554688,
+     :y2 234.8541717529297,
+     :width 642,
+     :height 481.49999999999994},
+    :rects
+    ({:x1 87.58333587646484,
+      :y1 217.5208282470703,
+      :x2 183.97384643554688,
+      :y2 234.8541717529297,
+      :width 642,
+      :height 481.49999999999994}),
+    :page 5},
+   :content {:text "Final fracture ("},
+   :properties {:color "yellow"}}
+  {:id #uuid "640af1a7-e102-4c86-9f6d-983ab98f28ed",
+   :page 6,
+   :position
+   {:bounding
+    {:x1 12,
+     :y1 211.333251953125,
+     :x2 580,
+     :y2 430.333251953125,
+     :width 642,
+     :height 481.49999999999994},
+    :rects (),
+    :page 6},
+   :content {:text "[:span]", :image 1678438822354},
+   :properties {:color "yellow"}}], 
+ :extra {:page 6}}
