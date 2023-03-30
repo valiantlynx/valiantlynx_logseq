@@ -45,12 +45,14 @@
 	- 5:00pm - Dinner
 	SCHEDULED: <2023-04-03 Sun 17:00 ++1w>
 	- 6:00pm - Fysikk1 study
-	
+	SCHEDULED: <2023-04-03 Sun 18:00 ++1w>
 	- 8:00pm - Sleep
+	SCHEDULED: <2023-04-03 Sun 20:00 ++1w>
 -
 -
 - Wednesday:
 	- 6:00am - Wake up
+	SCHEDULED: <2023-04-04 Sun 20:00 ++1w>
 	- 6:30am - Breakfast
 	- 7:00am - Solidworks modelling3 study
 	- 9:00am - Training
