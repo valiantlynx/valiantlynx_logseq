@@ -64,10 +64,15 @@
 	- 2:00pm - Finish school
 	SCHEDULED: <2023-04-05 Mon 04:00 ++1w>
 	- 2:30pm - Lunch
+	SCHEDULED: <2023-04-05 Mon 04:30 ++1w>
 	- 3:00pm - Mathematics1 study
+	SCHEDULED: <2023-04-05 Mon 05:00 ++1w>
 	- 5:00pm - Dinner
+	SCHEDULED: <2023-04-05 Mon 07:00 ++1w>
 	- 6:00pm - Fysikk1 study
+	SCHEDULED: <2023-04-05 Mon 08:00 ++1w>
 	- 8:00pm - Sleep
+	SCHEDULED: <2023-04-05 Mon 10:00 ++1w>
 -
 -
 -
