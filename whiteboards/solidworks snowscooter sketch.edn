@@ -1,5 +1,5 @@
 {:blocks (
-{:block/content "import from microsoft\n/up"
+{:block/content "import from microsoft\n![null.png](../assets/null_1680218282656_0.png)"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "64261669-ff75-4b68-b511-5ef13806ae0e"}
@@ -8,7 +8,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "64261684-9dac-4cd0-a382-bb4efd7764be"} 
-{:block/created-at 1680218253475
+{:block/created-at 1680218285486
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -24,7 +24,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 65]
+:size [400 288.40625]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -33,9 +33,9 @@
 :point [363.5 313.5]
 :parentId "64261669-ff75-4b68-b511-5ef13806ae0e"
 :collapsedHeight 0
-:nonce 1680217725913}}
-:block/updated-at 1680218253475} 
-{:block/created-at 1680218253475
+:nonce 1680217725917}}
+:block/updated-at 1680218285486} 
+{:block/created-at 1680218285487
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -54,7 +54,7 @@
 :parentId "64261669-ff75-4b68-b511-5ef13806ae0e"
 :nonce 1680217770206
 :isComplete true}}
-:block/updated-at 1680218253475})
+:block/updated-at 1680218285487})
 :pages (
 {:block/uuid #uuid "64261669-ff75-4b68-b511-5ef13806ae0e"
 :block/properties 
@@ -67,7 +67,7 @@
 :nonce 1
 :assets []
 :shapes-index ("d27a7480-cf4f-11ed-b7c8-71e33fd90152" "ece378d0-cf4f-11ed-b7c8-71e33fd90152")}}
-:block/updated-at 1680218253475
+:block/updated-at 1680218285486
 :block/created-at 1680217705606
 :block/type "whiteboard"
 :block/name "solidworks snowscooter sketch"
