@@ -54,10 +54,15 @@
 	- 6:00am - Wake up
 	SCHEDULED: <2023-04-04 Sun 20:00 ++1w>
 	- 6:30am - Breakfast
+	SCHEDULED: <2023-04-04 Sun 20:30 ++1w>
 	- 7:00am - Solidworks modelling3 study
+	SCHEDULED: <2023-04-04 Sun 21:00 ++1w>
 	- 9:00am - Training
+	SCHEDULED: <2023-04-04 Sun 23:00 ++1w>
 	- 10:15am - Leave for school
+	SCHEDULED: <2023-04-05 Mon 00:15 ++1w>
 	- 2:00pm - Finish school
+	SCHEDULED: <2023-04-05 Mon 04:00 ++1w>
 	- 2:30pm - Lunch
 	- 3:00pm - Mathematics1 study
 	- 5:00pm - Dinner
