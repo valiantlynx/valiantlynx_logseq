@@ -1,0 +1,54 @@
+{:blocks (
+{:block/content "import\n![animevariant website theme wireframing (1).png](../../../../../../assets/animevariant_website_theme_wireframing_(1)_1680218923698_0.png)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64261b16-1775-4f40-a772-0416cf24db7e"}
+:block/parent 
+{:block/uuid #uuid "64261b16-1775-4f40-a772-0416cf24db7e"}
+:block/properties 
+{}
+:block/uuid #uuid "64261b2a-2f86-4f7b-983e-27f999645322"} 
+{:block/created-at 1680218924537
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "64261b2a-2f86-4f7b-983e-27f999645322"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 350.75]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9aa90730-cf52-11ed-b7c8-71e33fd90152"
+:noFill false
+:point [374.16668701171875 360.8333435058594]
+:parentId "64261b16-1775-4f40-a772-0416cf24db7e"
+:collapsedHeight 0
+:nonce 1680218920746}}
+:block/updated-at 1680218924537})
+:pages (
+{:block/uuid #uuid "64261b16-1775-4f40-a772-0416cf24db7e"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "64261b16-1775-4f40-a772-0416cf24db7e"
+:name "animevariant theme website wireframing"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("9aa90730-cf52-11ed-b7c8-71e33fd90152")}}
+:block/updated-at 1680218924536
+:block/created-at 1680218902065
+:block/type "whiteboard"
+:block/name "animevariant theme website wireframing"
+:block/original-name "animevariant theme website wireframing"})}
