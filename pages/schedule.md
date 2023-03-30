@@ -1,8 +1,7 @@
 - this is what i'm thinking currently
 -
 - LATER Monday:
-	- LATER 6:00am - Wake up
-	  SCHEDULED: <2023-04-02 Sun 06:00 ++1w>
+	- LATER am - Wake up >[2023-04-02 06:00 - 2023-06-10 22:00](#agenda://?start=1680408000000&end=1686427220963&allDay=false)
 	- LATER 6:30am - Breakfast
 	  SCHEDULED: <2023-04-02 Sun 06:30 ++1w>
 	- LATER 7:00am - Solidworks modelling3 study
