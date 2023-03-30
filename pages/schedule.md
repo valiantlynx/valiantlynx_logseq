@@ -132,7 +132,10 @@
 -
 - Saturday:
 	- 9:00am - Wake up
+	SCHEDULED: <2023-04-07 Sun 06:00 ++1w>
 	- 9:30am - Breakfast
+	SCHEDULED: <2023-04-07 Sun 06:30 ++1w>
+	
 	- 10:00am - Statistic study
 	- 1:00pm - Lunch
 	- 2:00pm - Termodynamikk study
