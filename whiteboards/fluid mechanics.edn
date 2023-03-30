@@ -1,0 +1,52 @@
+{:blocks (
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "642614d3-2b8b-4138-97f0-e888e305d583"}
+:block/parent 
+{:block/uuid #uuid "642614d3-2b8b-4138-97f0-e888e305d583"}
+:block/uuid #uuid "6426150e-8152-4b36-87d0-3e6ce00414ae"} 
+{:block/created-at 1680217361512
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "6426150e-8152-4b36-87d0-3e6ce00414ae"
+:scaleLevel "md"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 113]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "f5f53540-cf4e-11ed-b7c8-71e33fd90152"
+:noFill false
+:point [-57.35832824707032 -29.174999999999997]
+:parentId "642614d3-2b8b-4138-97f0-e888e305d583"
+:collapsedHeight 0
+:nonce 1680217355929}}
+:block/updated-at 1680217361512})
+:pages (
+{:block/uuid #uuid "642614d3-2b8b-4138-97f0-e888e305d583"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "642614d3-2b8b-4138-97f0-e888e305d583"
+:name "fluid mechanics"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("f5f53540-cf4e-11ed-b7c8-71e33fd90152")}}
+:block/updated-at 1680217361512
+:block/created-at 1680217299767
+:block/type "whiteboard"
+:block/name "fluid mechanics"
+:block/original-name "fluid mechanics"})}
