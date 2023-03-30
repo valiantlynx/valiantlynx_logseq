@@ -1,12 +1,14 @@
 {:blocks (
-{:block/content "import"
+{:block/content "import\n![materiell teknikk oppgaver.png](../assets/materiell_teknikk_oppgaver_1680218721377_0.png)"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "64261a09-cae3-48c7-af05-b34004d25aba"}
 :block/parent 
 {:block/uuid #uuid "64261a09-cae3-48c7-af05-b34004d25aba"}
+:block/properties 
+{}
 :block/uuid #uuid "64261a1a-6fef-470b-8e6e-552f1eecd113"} 
-{:block/created-at 1680218659152
+{:block/created-at 1680218722487
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -22,7 +24,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 41]
+:size [400 789.1979370117188]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -31,8 +33,8 @@
 :point [334.8333740234375 292.8333435058594]
 :parentId "64261a09-cae3-48c7-af05-b34004d25aba"
 :collapsedHeight 0
-:nonce 1680218648524}}
-:block/updated-at 1680218659152})
+:nonce 1680218648529}}
+:block/updated-at 1680218722487})
 :pages (
 {:block/uuid #uuid "64261a09-cae3-48c7-af05-b34004d25aba"
 :block/properties 
@@ -45,7 +47,7 @@
 :nonce 1
 :assets []
 :shapes-index ("f867b480-cf51-11ed-b7c8-71e33fd90152")}}
-:block/updated-at 1680218659152
+:block/updated-at 1680218722487
 :block/created-at 1680218633882
 :block/type "whiteboard"
 :block/name "material teknikk øving oppgave"
