@@ -1,0 +1,54 @@
+{:blocks (
+{:block/content "import\n![random impulse knowledge.png](../../../../../../assets/random_impulse_knowledge_1680218954865_0.png)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64261b36-b9e4-4e84-8882-d69dc307c589"}
+:block/parent 
+{:block/uuid #uuid "64261b36-b9e4-4e84-8882-d69dc307c589"}
+:block/properties 
+{}
+:block/uuid #uuid "64261b45-74cf-483f-a7b4-23281fe63a23"} 
+{:block/created-at 1680218955952
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "64261b45-74cf-483f-a7b4-23281fe63a23"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 249.75]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "a8fcef90-cf52-11ed-b7c8-71e33fd90152"
+:noFill false
+:point [380.8333740234375 250.83334350585938]
+:parentId "64261b36-b9e4-4e84-8882-d69dc307c589"
+:collapsedHeight 0
+:nonce 1680218944784}}
+:block/updated-at 1680218955952})
+:pages (
+{:block/uuid #uuid "64261b36-b9e4-4e84-8882-d69dc307c589"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "64261b36-b9e4-4e84-8882-d69dc307c589"
+:name "random impulse knowledge"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("a8fcef90-cf52-11ed-b7c8-71e33fd90152")}}
+:block/updated-at 1680218955952
+:block/created-at 1680218934056
+:block/type "whiteboard"
+:block/name "random impulse knowledge"
+:block/original-name "random impulse knowledge"})}
