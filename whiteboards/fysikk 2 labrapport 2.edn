@@ -1,0 +1,54 @@
+{:blocks (
+{:block/content "import\n![fysikk2 lab rapport 2.png](../../../../../../assets/fysikk2_lab_rapport_2_1680218863777_0.png)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64261ae2-f808-4cdc-8bd5-4e1e2bebab03"}
+:block/parent 
+{:block/uuid #uuid "64261ae2-f808-4cdc-8bd5-4e1e2bebab03"}
+:block/properties 
+{}
+:block/uuid #uuid "64261aee-9846-4bbd-b23d-f3a4e9932714"} 
+{:block/created-at 1680218865536
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "64261aee-9846-4bbd-b23d-f3a4e9932714"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 1360.2708740234375]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "76e524f0-cf52-11ed-b7c8-71e33fd90152"
+:noFill false
+:point [509.5 260.8333435058594]
+:parentId "64261ae2-f808-4cdc-8bd5-4e1e2bebab03"
+:collapsedHeight 0
+:nonce 1680218860742}}
+:block/updated-at 1680218865536})
+:pages (
+{:block/uuid #uuid "64261ae2-f808-4cdc-8bd5-4e1e2bebab03"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "64261ae2-f808-4cdc-8bd5-4e1e2bebab03"
+:name "fysikk 2 labrapport 2"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("76e524f0-cf52-11ed-b7c8-71e33fd90152")}}
+:block/updated-at 1680218865536
+:block/created-at 1680218850014
+:block/type "whiteboard"
+:block/name "fysikk 2 labrapport 2"
+:block/original-name "fysikk 2 labrapport 2"})}
