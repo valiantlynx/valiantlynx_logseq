@@ -1,0 +1,54 @@
+{:blocks (
+{:block/content "import"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6426197b-2ddc-4360-833d-44f7faa1ffbd"}
+:block/parent 
+{:block/uuid #uuid "6426197b-2ddc-4360-833d-44f7faa1ffbd"}
+:block/uuid #uuid "642619af-614d-4dfd-b13b-1865be3f9ac5"} 
+{:block/created-at 1680218545875
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "642619af-614d-4dfd-b13b-1865be3f9ac5"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "b896e1f0-cf51-11ed-b7c8-71e33fd90152"
+:noFill false
+:point [474.16668701171875 459.5]
+:parentId "6426197b-2ddc-4360-833d-44f7faa1ffbd"
+:collapsedHeight 0
+:nonce 1680218541459}}
+:block/updated-at 1680218545875})
+:pages (
+{:block/uuid #uuid "6426197b-2ddc-4360-833d-44f7faa1ffbd"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "6426197b-2ddc-4360-833d-44f7faa1ffbd"
+:name "thermodynamics - 17/01/2023"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("b896e1f0-cf51-11ed-b7c8-71e33fd90152")}}
+:block/namespace 
+{:db/id 6954}
+:block/updated-at 1680218545875
+:block/created-at 1680218491759
+:block/type "whiteboard"
+:block/name "thermodynamics - 17/01/2023"
+:block/original-name "thermodynamics - 17/01/2023"})}
