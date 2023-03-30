@@ -6,6 +6,7 @@
 	- 6:30am - Breakfast
 	  SCHEDULED: <2023-04-02 Sun 06:30 ++1w>
 	- 7:00am - Solidworks modelling3 study
+	  SCHEDULED: <2023-04-02 Sun 07:00 ++1w>
 	- 9:00am - Training
 	- 10:15am - Leave for school
 	- 12:00pm - Finish school
