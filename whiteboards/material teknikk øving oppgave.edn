@@ -1,0 +1,52 @@
+{:blocks (
+{:block/content "import"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64261a09-cae3-48c7-af05-b34004d25aba"}
+:block/parent 
+{:block/uuid #uuid "64261a09-cae3-48c7-af05-b34004d25aba"}
+:block/uuid #uuid "64261a1a-6fef-470b-8e6e-552f1eecd113"} 
+{:block/created-at 1680218650133
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "64261a1a-6fef-470b-8e6e-552f1eecd113"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "f867b480-cf51-11ed-b7c8-71e33fd90152"
+:noFill false
+:point [334.8333740234375 292.8333435058594]
+:parentId "64261a09-cae3-48c7-af05-b34004d25aba"
+:collapsedHeight 0
+:nonce 1680218648522}}
+:block/updated-at 1680218650133})
+:pages (
+{:block/uuid #uuid "64261a09-cae3-48c7-af05-b34004d25aba"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "64261a09-cae3-48c7-af05-b34004d25aba"
+:name "material teknikk øving oppgave"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("f867b480-cf51-11ed-b7c8-71e33fd90152")}}
+:block/updated-at 1680218650133
+:block/created-at 1680218633882
+:block/type "whiteboard"
+:block/name "material teknikk øving oppgave"
+:block/original-name "material teknikk øving oppgave"})}
