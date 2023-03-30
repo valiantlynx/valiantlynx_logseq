@@ -20,10 +20,6 @@
  :default-templates
  {:journals ""}
 
- ;; Set a custom date format for journal page title
- ;; Example:
- ;; :journal/page-title-format "EEE, do MMM yyyy"
-
  ;; Whether to enable hover on tooltip preview feature
  ;; Default is true, you can also toggle this via setting page
  :ui/enable-tooltip? true
@@ -47,18 +43,8 @@
  ;; Enable flashcards
  ;; :feature/enable-flashcards? true
 
- ;; Enable Whiteboards
- ;; :feature/enable-whiteboards? true
-
- ;; Disable the built-in Scheduled tasks and deadlines query
+ ;; Disable Built-in Scheduled and deadline Query
  ;; :feature/disable-scheduled-and-deadline-query? true
-
- ;; Specify the number of days in the future to display in the
- ;; scheduled tasks and deadlines query, with a default value of 0 which
- ;; only displays tasks for today.
- ;; Example usage:
- ;; Display all scheduled tasks and deadlines in the next 7 days
- ;; :scheduled/future-days 7
 
  ;; Specify the date on which the week starts.
  ;; Goes from 0 to 6 (Monday to Sunday), default to 6
@@ -71,14 +57,6 @@
  ;; Example:
  ;; :custom-css-url "@import url('https://cdn.jsdelivr.net/gh/dracula/logseq@master/custom.css');"
 
- ;; Specify a custom js import
- ;; This option take precedence over your local `logseq/custom.js` file
- ;; :custom-js-url ""
-
- ;; Set a custom Arweave gateway
- ;; Default gateway: https://arweave.net
- ;; :arweave/gateway ""
-
  ;; Set Bullet indentation when exporting
  ;; default option: tab
  ;; Possible options are for `:sidebar` are
@@ -86,6 +64,7 @@
  ;; 2. `:four-spaces` as four spaces
  ;; 3. `:two-spaces` as two spaces
  ;; :export/bullet-indentation :tab
+
 
  ;; When :all-pages-public? true, export repo would export all pages within that repo.
  ;; Regardless of whether you've set any page to public or not.
@@ -127,7 +106,7 @@
  ;; 2. ` ` empty space between keys represents key chords. eg: `t s` means press `t` followed by `s`
  ;; 3. `mod` means `Ctrl` for Windows/Linux  and `Command` for Mac
  ;; 4. use `false` to disable particular shortcut
- ;; 5. you can define multiple bindings for one action, eg `["ctrl+j" "down"]`
+ ;; 4. you can define multiple bindings for one action, eg `["ctrl+j" "down"]`
  ;; full list of configurable shortcuts are available below:
  ;; https://github.com/logseq/logseq/blob/master/src/main/frontend/modules/shortcut/config.cljs
  ;; Example:
@@ -135,7 +114,7 @@
  ;; {:editor/new-block       "enter"
  ;;  :editor/new-line        "shift+enter"
  ;;  :editor/insert-link     "mod+shift+k"
- ;;  :editor/highlight       false
+ ;;  :editor/hightlight       false
  ;;  :ui/toggle-settings     "t s"
  ;;  :editor/up              ["ctrl+k" "up"]
  ;;  :editor/down            ["ctrl+j" "down"]
@@ -293,14 +272,13 @@
  ;; Enable logical outdenting
  ;; :editor/logical-outdenting? true
 
- ;; When both text and a file are in the clipboard, paste the file
+ ;; Enable preferring pasting file from clipboard
  ;; :editor/preferred-pasting-file? true
 
  ;; Quick capture templates for receiving contents from other apps.
  ;; Each template contains three elements {time}, {text} and {url}, which can be auto-expanded
  ;; by received contents from other apps. Note: the {} cannot be omitted.
  ;; - {time}: capture time
- ;; - {date}: capture date using current date format, use `[[{date}]]` to get a page reference
  ;; - {text}: text that users selected before sharing.
  ;; - {url}: url or assets path for media files stored in Logseq.
  ;; You can also reorder them, or even only use one or two of them in the template.
@@ -310,7 +288,7 @@
  ;;  :media "[[quick capture]] **{time}**: {url}"}
 
  ;; Quick capture options
- ;; :quick-capture-options {:insert-today? false :redirect-page? false :default-page "my page"}
+ ;; :quick-capture-options {:insert-today? false :redirect-page? false}
 
  ;; File sync options
  ;; Ignore these files when syncing, regexp is supported.
@@ -339,8 +317,6 @@
  ;;     ;use triple underscore `___` for slash `/` in page title
  ;;     ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
-
- ;; specify the format of the filename for journal files
- ;; :journal/file-name-format "yyyy_MM_dd"
-
+ :graph/settings {:journal? false}
+ :publishing/all-pages-public? true
  }
