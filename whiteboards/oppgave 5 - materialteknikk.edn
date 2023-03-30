@@ -1,0 +1,54 @@
+{:blocks (
+{:block/content "import\n![m.png](../../../../../../assets/m_1680218619562_0.png)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "642619bf-9102-41e1-85c6-66c0602e4916"}
+:block/parent 
+{:block/uuid #uuid "642619bf-9102-41e1-85c6-66c0602e4916"}
+:block/properties 
+{}
+:block/uuid #uuid "642619f6-95e1-4251-a5fa-177c17488cbf"} 
+{:block/created-at 1680218620441
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "642619f6-95e1-4251-a5fa-177c17488cbf"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 1455.03125]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e2febf80-cf51-11ed-b7c8-71e33fd90152"
+:noFill false
+:point [534.8333740234375 446.8333435058594]
+:parentId "642619bf-9102-41e1-85c6-66c0602e4916"
+:collapsedHeight 0
+:nonce 1680218612609}}
+:block/updated-at 1680218620441})
+:pages (
+{:block/uuid #uuid "642619bf-9102-41e1-85c6-66c0602e4916"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "642619bf-9102-41e1-85c6-66c0602e4916"
+:name "oppgave 5 - materialteknikk"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("e2febf80-cf51-11ed-b7c8-71e33fd90152")}}
+:block/updated-at 1680218620441
+:block/created-at 1680218559312
+:block/type "whiteboard"
+:block/name "oppgave 5 - materialteknikk"
+:block/original-name "oppgave 5 - materialteknikk"})}
