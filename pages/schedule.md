@@ -48,9 +48,7 @@
 	  	SCHEDULED: <2023-04-03 Sun 18:00 ++1w>
 	- LATER 8:00pm - Sleep
 	  	SCHEDULED: <2023-04-03 Sun 20:00 ++1w>
--
--
-- LATER Wednesday:
+- Wednesday:
 	- LATER 6:00am - Wake up
 	  	SCHEDULED: <2023-04-04 Sun 06:00 ++1w>
 	- LATER 6:30am - Breakfast
@@ -73,10 +71,7 @@
 	  	SCHEDULED: <2023-04-04 Sun 18:00 ++1w>
 	- LATER 8:00pm - Sleep
 	  	SCHEDULED: <2023-04-04 Sun 20:00 ++1w>
--
--
--
-- LATER Thursday:
+- Thursday:
 	- LATER 6:00am - Wake up
 	  	SCHEDULED: <2023-04-05 Sun 06:00 ++1w>
 	- LATER 6:30am - Breakfast
@@ -101,7 +96,7 @@
 	  	SCHEDULED: <2023-04-05 Sun 20:00 ++1w>
 -
 -
-- LATER Friday:
+- LATE Friday:
 	- LATER 6:00am - Wake up
 	  	SCHEDULED: <2023-04-06 Sun 06:00 ++1w>
 	- LATER 6:30am - Breakfast
