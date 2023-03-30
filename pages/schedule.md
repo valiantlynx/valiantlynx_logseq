@@ -154,9 +154,14 @@
 	- 9:30am - Breakfast
 	SCHEDULED: <2023-04-08 Sun 06:30 ++1w>
 	- 10:00am - Materialteknikk study
-	
+	SCHEDULED: <2023-04-08 Sun 07:00 ++1w>
 	- 1:00pm - Lunch
+	SCHEDULED: <2023-04-08 Sun 13:00 ++1w>
 	- 2:00pm - Systems Design and Engineering study
+	SCHEDULED: <2023-04-08 Sun 14:00 ++1w>
 	- 5:00pm - Dinner
+	SCHEDULED: <2023-04-08 Sun 17:00 ++1w>
 	- 6:00pm - Free time
+	SCHEDULED: <2023-04-08 Sun 18:00 ++1w>
 	- 8:00pm - Sleep
+	SCHEDULED: <2023-04-08 Sun 20:00 ++1w>
