@@ -22,9 +22,7 @@
 	  SCHEDULED: <2023-04-02 Sun 18:00 ++1w>
 	- LATER 8:00pm - Sleep
 	  SCHEDULED: <2023-04-02 Sun 20:00 ++1w>
--
--
-- LATER Tuesday:
+- Tuesday:
 	- LATER 6:00am - Wake up
 	  :LOGBOOK:
 	  CLOCK: [2023-03-30 Thu 21:58:14]--[2023-03-30 Thu 21:58:15] =>  00:00:01
