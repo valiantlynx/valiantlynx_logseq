@@ -1,12 +1,14 @@
 {:blocks (
-{:block/content "import"
+{:block/content "import\n![Thermo dynamics.png](../assets/Thermo_dynamics_1680218553909_0.png)"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "6426197b-2ddc-4360-833d-44f7faa1ffbd"}
 :block/parent 
 {:block/uuid #uuid "6426197b-2ddc-4360-833d-44f7faa1ffbd"}
+:block/properties 
+{}
 :block/uuid #uuid "642619af-614d-4dfd-b13b-1865be3f9ac5"} 
-{:block/created-at 1680218545875
+{:block/created-at 1680218555160
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -22,7 +24,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 41]
+:size [400 1772.354248046875]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -31,8 +33,8 @@
 :point [474.16668701171875 459.5]
 :parentId "6426197b-2ddc-4360-833d-44f7faa1ffbd"
 :collapsedHeight 0
-:nonce 1680218541459}}
-:block/updated-at 1680218545875})
+:nonce 1680218541464}}
+:block/updated-at 1680218555160})
 :pages (
 {:block/uuid #uuid "6426197b-2ddc-4360-833d-44f7faa1ffbd"
 :block/properties 
@@ -47,7 +49,7 @@
 :shapes-index ("b896e1f0-cf51-11ed-b7c8-71e33fd90152")}}
 :block/namespace 
 {:db/id 6954}
-:block/updated-at 1680218545875
+:block/updated-at 1680218555160
 :block/created-at 1680218491759
 :block/type "whiteboard"
 :block/name "thermodynamics - 17/01/2023"
