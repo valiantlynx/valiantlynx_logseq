@@ -22,10 +22,12 @@
 	- 6:00pm - Fysikk1 study
 	  SCHEDULED: <2023-04-02 Sun 18:00 ++1w>
 	- 8:00pm - Sleep
+	  SCHEDULED: <2023-04-02 Sun 20:00 ++1w>
 -
 -
 - Tuesday:
 	- 6:00am - Wake up
+	
 	- 6:30am - Breakfast
 	- 7:00am - Solidworks modelling3 study
 	- 9:00am - Training
