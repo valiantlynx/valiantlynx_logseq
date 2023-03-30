@@ -1,0 +1,54 @@
+{:blocks (
+{:block/content "import\n![fluiddynamics task 1.png](../../../../../../assets/fluiddynamics_task_1_1680219056690_0.png)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64261b9d-e783-4a30-8e9c-a24ce6b54c65"}
+:block/parent 
+{:block/uuid #uuid "64261b9d-e783-4a30-8e9c-a24ce6b54c65"}
+:block/properties 
+{}
+:block/uuid #uuid "64261baf-c6ce-48d7-b787-530a37baadc2"} 
+{:block/created-at 1680219058007
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "64261baf-c6ce-48d7-b787-530a37baadc2"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 499.35418701171875]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e9137db0-cf52-11ed-b7c8-71e33fd90152"
+:noFill false
+:point [724.8333740234375 230.16668701171875]
+:parentId "64261b9d-e783-4a30-8e9c-a24ce6b54c65"
+:collapsedHeight 0
+:nonce 1680219052307}}
+:block/updated-at 1680219058007})
+:pages (
+{:block/uuid #uuid "64261b9d-e783-4a30-8e9c-a24ce6b54c65"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "64261b9d-e783-4a30-8e9c-a24ce6b54c65"
+:name "fluiddynamics task 1"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("e9137db0-cf52-11ed-b7c8-71e33fd90152")}}
+:block/updated-at 1680219058007
+:block/created-at 1680219037246
+:block/type "whiteboard"
+:block/name "fluiddynamics task 1"
+:block/original-name "fluiddynamics task 1"})}
