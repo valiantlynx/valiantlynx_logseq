@@ -1,0 +1,54 @@
+{:blocks (
+{:block/content "import\n![fluidmechanics task2.png](../../../../../../assets/fluidmechanics_task2_1680219124415_0.png)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64261be1-0b95-49ff-b378-9ff41edded07"}
+:block/parent 
+{:block/uuid #uuid "64261be1-0b95-49ff-b378-9ff41edded07"}
+:block/properties 
+{}
+:block/uuid #uuid "64261bef-e0ec-4893-8fdf-99ca92e50914"} 
+{:block/created-at 1680219125317
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "64261bef-e0ec-4893-8fdf-99ca92e50914"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 719.5833740234375]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "10495530-cf53-11ed-b7c8-71e33fd90152"
+:noFill false
+:point [418.8333740234375 193.5]
+:parentId "64261be1-0b95-49ff-b378-9ff41edded07"
+:collapsedHeight 0
+:nonce 1680219118090}}
+:block/updated-at 1680219125317})
+:pages (
+{:block/uuid #uuid "64261be1-0b95-49ff-b378-9ff41edded07"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "64261be1-0b95-49ff-b378-9ff41edded07"
+:name "fluid mechanics task 2"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("10495530-cf53-11ed-b7c8-71e33fd90152")}}
+:block/updated-at 1680219125317
+:block/created-at 1680219105961
+:block/type "whiteboard"
+:block/name "fluid mechanics task 2"
+:block/original-name "fluid mechanics task 2"})}
