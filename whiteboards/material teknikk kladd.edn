@@ -1,0 +1,54 @@
+{:blocks (
+{:block/content "import\n![materielteknikk kladd.png](../../../../../../assets/materielteknikk_kladd_1680218753819_0.png)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "64261a65-a5c6-4eab-82e1-e4cebb503c97"}
+:block/parent 
+{:block/uuid #uuid "64261a65-a5c6-4eab-82e1-e4cebb503c97"}
+:block/properties 
+{}
+:block/uuid #uuid "64261a80-4cac-4175-85f9-53c6fde4199c"} 
+{:block/created-at 1680218755371
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "64261a80-4cac-4175-85f9-53c6fde4199c"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 538.625]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "3530c550-cf52-11ed-b7c8-71e33fd90152"
+:noFill false
+:point [420.8333740234375 371.5]
+:parentId "64261a65-a5c6-4eab-82e1-e4cebb503c97"
+:collapsedHeight 0
+:nonce 1680218750508}}
+:block/updated-at 1680218755371})
+:pages (
+{:block/uuid #uuid "64261a65-a5c6-4eab-82e1-e4cebb503c97"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "64261a65-a5c6-4eab-82e1-e4cebb503c97"
+:name "material teknikk kladd"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("3530c550-cf52-11ed-b7c8-71e33fd90152")}}
+:block/updated-at 1680218755371
+:block/created-at 1680218725652
+:block/type "whiteboard"
+:block/name "material teknikk kladd"
+:block/original-name "material teknikk kladd"})}
