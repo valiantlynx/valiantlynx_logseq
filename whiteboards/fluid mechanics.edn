@@ -7,7 +7,43 @@
 {:block/uuid #uuid "642614d3-2b8b-4138-97f0-e888e305d583"}
 :block/properties 
 {:id "6426150e-8152-4b36-87d0-3e6ce00414ae"}
-:block/uuid #uuid "6426150e-8152-4b36-87d0-3e6ce00414ae"})
+:block/uuid #uuid "6426150e-8152-4b36-87d0-3e6ce00414ae"} 
+{:block/content "import from microsoft whitepoard\n/up"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6426150e-8152-4b36-87d0-3e6ce00414ae"}
+:block/parent 
+{:block/uuid #uuid "642614d3-2b8b-4138-97f0-e888e305d583"}
+:block/properties 
+{}
+:block/uuid #uuid "6426157a-6ffa-4af6-a705-1f577eb7c5f2"} 
+{:block/created-at 1680217472343
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "6426157a-6ffa-4af6-a705-1f577eb7c5f2"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 65]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "23f83af0-cf4f-11ed-b7c8-71e33fd90152"
+:noFill false
+:point [-51.35832824707029 -12.841656494140636]
+:parentId "642614d3-2b8b-4138-97f0-e888e305d583"
+:collapsedHeight 0
+:nonce 1680217433124}}
+:block/updated-at 1680217472343})
 :pages (
 {:block/uuid #uuid "642614d3-2b8b-4138-97f0-e888e305d583"
 :block/properties 
@@ -19,8 +55,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ()}}
-:block/updated-at 1680217428750
+:shapes-index ("23f83af0-cf4f-11ed-b7c8-71e33fd90152")}}
+:block/updated-at 1680217472343
 :block/created-at 1680217299767
 :block/type "whiteboard"
 :block/name "fluid mechanics"
