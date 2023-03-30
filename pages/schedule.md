@@ -150,8 +150,11 @@
 -
 - Sunday:
 	- 9:00am - Wake up
+	SCHEDULED: <2023-04-08 Sun 06:00 ++1w>
 	- 9:30am - Breakfast
+	SCHEDULED: <2023-04-08 Sun 06:30 ++1w>
 	- 10:00am - Materialteknikk study
+	
 	- 1:00pm - Lunch
 	- 2:00pm - Systems Design and Engineering study
 	- 5:00pm - Dinner
