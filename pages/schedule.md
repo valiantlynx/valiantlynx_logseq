@@ -62,7 +62,7 @@
   8:00pm - Dinner
   9:00pm - Fysikk1 study
   11:00pm - Sleep
-  Saturday:
+- Saturday:
   9:00am - Wake up
   9:30am - Breakfast
   10:00am - Statistic study
@@ -71,7 +71,7 @@
   5:00pm - Dinner
   6:00pm - Produktutvikling study
   8:00pm - Sleep
-  Sunday:
+- Sunday:
   9:00am - Wake up
   9:30am - Breakfast
   10:00am - Materialteknikk study
