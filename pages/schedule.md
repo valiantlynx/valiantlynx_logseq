@@ -15,6 +15,9 @@
 	  SCHEDULED: <2023-04-02 Sun 10:15 ++1w>
 	- LATER 12:00pm - Finish school
 	  SCHEDULED: <2023-04-02 Sun 12:00 ++1w>
+	  :LOGBOOK:
+	  CLOCK: [2023-03-31 Fri 01:35:54]--[2023-03-31 Fri 01:35:55] =>  00:00:01
+	  :END:
 	- LATER 12:30pm - Lunch
 	  SCHEDULED: <2023-04-02 Sun 12:30 ++1w>
 	- LATER 1:00pm - Mathematics1 study
