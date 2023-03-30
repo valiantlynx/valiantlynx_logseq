@@ -10,6 +10,7 @@
 	- 9:00am - Training
 	  SCHEDULED: <2023-04-02 Sun 09:00 ++1w>
 	- 10:15am - Leave for school
+	  SCHEDULED: <2023-04-02 Sun 10:15 ++1w>
 	- 12:00pm - Finish school
 	- 12:30pm - Lunch
 	- 1:00pm - Mathematics1 study
