@@ -1,5 +1,5 @@
 {:blocks (
-{:block/content "import from microsoft\n![Untitled whiteboard.pdf](../assets/Untitled_whiteboard_1680217748500_0.pdf)"
+{:block/content "import from microsoft"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "64261669-ff75-4b68-b511-5ef13806ae0e"}
@@ -8,7 +8,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "64261684-9dac-4cd0-a382-bb4efd7764be"} 
-{:block/created-at 1680217772500
+{:block/created-at 1680218240343
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -33,34 +33,14 @@
 :point [363.5 313.5]
 :parentId "64261669-ff75-4b68-b511-5ef13806ae0e"
 :collapsedHeight 0
-:nonce 1680217725906}}
-:block/updated-at 1680217772500} 
-{:block/created-at 1680217772501
+:nonce 1680217725909}}
+:block/updated-at 1680218240343} 
+{:block/created-at 1680218240344
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
 :index 1
-:scale [1 1]
-:fill ""
-:type "pencil"
-:points [[13.33331298828125 0 0.5] [11.33331298828125 3.333343505859375 0.5] [7.33331298828125 13.333343505859375 0.5] [4 23.333343505859375 0.5] [1.33331298828125 38 0.5] [0 41.333343505859375 0.5] [0 44.666656494140625 0.5] [0 45.333343505859375 0.5] [2 44.666656494140625 0.5] [8 40 0.5] [12.6666259765625 34 0.5] [20.6666259765625 28.666656494140625 0.5] [23.33331298828125 26 0.5] [25.33331298828125 24 0.5] [26 24 0.5] [26 23.333343505859375 0.5] [26.6666259765625 23.333343505859375 0.5] [26.6666259765625 22.666656494140625 0.5] [27.33331298828125 22.666656494140625 0.5]]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "eac553c0-cf4f-11ed-b7c8-71e33fd90152"
-:noFill true
-:point [164.35418701171875 388.8333435058594]
-:parentId "64261669-ff75-4b68-b511-5ef13806ae0e"
-:nonce 1680217766672
-:isComplete true}}
-:block/updated-at 1680217772501} 
-{:block/created-at 1680217772501
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 2
 :scale [1 1]
 :fill ""
 :type "pencil"
@@ -74,7 +54,7 @@
 :parentId "64261669-ff75-4b68-b511-5ef13806ae0e"
 :nonce 1680217770206
 :isComplete true}}
-:block/updated-at 1680217772501})
+:block/updated-at 1680218240344})
 :pages (
 {:block/uuid #uuid "64261669-ff75-4b68-b511-5ef13806ae0e"
 :block/properties 
@@ -86,8 +66,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("d27a7480-cf4f-11ed-b7c8-71e33fd90152" "eac553c0-cf4f-11ed-b7c8-71e33fd90152" "ece378d0-cf4f-11ed-b7c8-71e33fd90152")}}
-:block/updated-at 1680217772500
+:shapes-index ("d27a7480-cf4f-11ed-b7c8-71e33fd90152" "ece378d0-cf4f-11ed-b7c8-71e33fd90152")}}
+:block/updated-at 1680218243263
 :block/created-at 1680217705606
 :block/type "whiteboard"
 :block/name "solidworks snowscooter sketch"
