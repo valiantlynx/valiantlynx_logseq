@@ -1,0 +1,54 @@
+{:blocks (
+{:block/content "import\n![task 3.png](../assets/task_3_1680218420684_0.png)"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "642618f4-80c7-4e16-b442-729153a89a30"}
+:block/parent 
+{:block/uuid #uuid "642618f4-80c7-4e16-b442-729153a89a30"}
+:block/properties 
+{}
+:block/uuid #uuid "6426192d-f789-4b1c-b109-e13107ff5235"} 
+{:block/created-at 1680218421783
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "6426192d-f789-4b1c-b109-e13107ff5235"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 635.625]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6a6c5aa0-cf51-11ed-b7c8-71e33fd90152"
+:noFill false
+:point [454.8333740234375 407.5]
+:parentId "642618f4-80c7-4e16-b442-729153a89a30"
+:collapsedHeight 0
+:nonce 1680218410323}}
+:block/updated-at 1680218421783})
+:pages (
+{:block/uuid #uuid "642618f4-80c7-4e16-b442-729153a89a30"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "642618f4-80c7-4e16-b442-729153a89a30"
+:name "fluid mekanikk task 3"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("6a6c5aa0-cf51-11ed-b7c8-71e33fd90152")}}
+:block/updated-at 1680218421783
+:block/created-at 1680218356761
+:block/type "whiteboard"
+:block/name "fluid mekanikk task 3"
+:block/original-name "fluid mekanikk task 3"})}
