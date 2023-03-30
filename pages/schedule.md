@@ -56,25 +56,29 @@
 - 6:00pm - Fysikk1 study
 - 8:00pm - Sleep
 -
+-
 - Friday:
-  6:00am - Wake up
-  6:30am - Breakfast
-  7:00am - Solidworks modelling3 study
-  9:00am - Training
-  8:15am - Leave for school
-  11:15am - Free time
-  12:00pm - Back to school
-  4:00pm - Finish school
-  4:30pm - Lunch
-  5:00pm - Mathematics1 study
-  8:00pm - Dinner
-  9:00pm - Fysikk1 study
-  11:00pm - Sleep
+- 6:00am - Wake up
+- 6:30am - Breakfast
+- 7:00am - Solidworks modelling3 study
+- 9:00am - Training
+- 8:15am - Leave for school
+- 11:15am - Free time
+- 12:00pm - Back to school
+- 4:00pm - Finish school
+- 4:30pm - Lunch
+- 5:00pm - Mathematics1 study
+- 8:00pm - Dinner
+- 9:00pm - Fysikk1 study
+- 11:00pm - Sleep
+-
+-
 - Saturday:
-  9:00am - Wake up
-  9:30am - Breakfast
-  10:00am - Statistic study
-  1:00pm - Lunch
+- 9:00am - Wake up
+- 9:30am - Breakfast
+- 10:00am - Statistic study
+-
+- 1:00pm - Lunch
   2:00pm - Termodynamikk study
   5:00pm - Dinner
   6:00pm - Produktutvikling study
