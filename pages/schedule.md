@@ -96,15 +96,20 @@
 	- 5:00pm - Dinner
 	SCHEDULED: <2023-04-05 Sun 17:00 ++1w>
 	- 6:00pm - Fysikk1 study
-	
+	SCHEDULED: <2023-04-05 Sun 18:00 ++1w>
 	- 8:00pm - Sleep
+	SCHEDULED: <2023-04-05 Sun 20:00 ++1w>
 -
 -
 - Friday:
 	- 6:00am - Wake up
+	SCHEDULED: <2023-04-06 Sun 06:00 ++1w>
 	- 6:30am - Breakfast
+	SCHEDULED: <2023-04-06 Sun 06:30 ++1w>
 	- 7:00am - Solidworks modelling3 study
+	SCHEDULED: <2023-04-06 Sun 07:00 ++1w>
 	- 9:00am - Training
+	
 	- 8:15am - Leave for school
 	- 11:15am - Free time
 	- 12:00pm - Back to school
