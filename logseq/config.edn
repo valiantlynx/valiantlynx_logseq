@@ -319,4 +319,5 @@
  :file/name-format :triple-lowbar
  :graph/settings {:journal? false}
  :publishing/all-pages-public? true
+ :feature/enable-whiteboards? true
  }
