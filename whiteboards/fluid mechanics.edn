@@ -17,7 +17,7 @@
 :block/properties 
 {:id "6426157a-6ffa-4af6-a705-1f577eb7c5f2"}
 :block/uuid #uuid "6426157a-6ffa-4af6-a705-1f577eb7c5f2"} 
-{:block/created-at 1680217611173
+{:block/created-at 1680217638846
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -43,7 +43,7 @@
 :parentId "642614d3-2b8b-4138-97f0-e888e305d583"
 :collapsedHeight 0
 :nonce 1680217583029}}
-:block/updated-at 1680217611173})
+:block/updated-at 1680217638846})
 :pages (
 {:block/uuid #uuid "642614d3-2b8b-4138-97f0-e888e305d583"
 :block/properties 
@@ -56,7 +56,7 @@
 :nonce 1
 :assets []
 :shapes-index ("7d514ec0-cf4f-11ed-b7c8-71e33fd90152")}}
-:block/updated-at 1680217611173
+:block/updated-at 1680217638846
 :block/created-at 1680217299767
 :block/type "whiteboard"
 :block/name "fluid mechanics"
