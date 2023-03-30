@@ -1,0 +1,6 @@
+- ![Product Development 1 - Lecture 02.pdf](../assets/Product_Development_1_-_Lecture_02_1677834875576_0.pdf)
+- ![Product Development 1 - Lecture 03.pdf](../assets/Product_Development_1_-_Lecture_03_1677834881399_0.pdf)
+- ![Product Development 1 - Lecture 04.pdf](../assets/Product_Development_1_-_Lecture_04_1677834888274_0.pdf)
+- ![Product Development 1 - Lecture 05.pdf](../assets/Product_Development_1_-_Lecture_05_1677834894603_0.pdf)
+- [[Homework assignment stress tranformation]]
+-
