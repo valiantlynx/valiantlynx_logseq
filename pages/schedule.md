@@ -74,15 +74,15 @@
 -
 -
 - Saturday:
-- 9:00am - Wake up
-- 9:30am - Breakfast
-- 10:00am - Statistic study
+	- 9:00am - Wake up
+	- 9:30am - Breakfast
+	- 10:00am - Statistic study
+	- 1:00pm - Lunch
+	- 2:00pm - Termodynamikk study
+	- 5:00pm - Dinner
+	- 6:00pm - Produktutvikling study
+	- 8:00pm - Sleep
 -
-- 1:00pm - Lunch
-  2:00pm - Termodynamikk study
-  5:00pm - Dinner
-  6:00pm - Produktutvikling study
-  8:00pm - Sleep
 - Sunday:
 	- 9:00am - Wake up
 	- 9:30am - Breakfast
