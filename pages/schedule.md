@@ -1,6 +1,6 @@
 - this is what i'm thinking currently
 -
-- LATER Monday:
+- Monday:
 	- LATER am - Wake up >[2023-04-02](#agenda://?start=1680386400000&end=1680472799000)
 	- LATER 6:30am - Breakfast
 	  SCHEDULED: <2023-04-02 Sun 06:30 ++1w>
