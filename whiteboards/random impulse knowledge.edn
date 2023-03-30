@@ -8,7 +8,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "64261b45-74cf-483f-a7b4-23281fe63a23"} 
-{:block/created-at 1680218955952
+{:block/created-at 1680218967591
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -34,7 +34,7 @@
 :parentId "64261b36-b9e4-4e84-8882-d69dc307c589"
 :collapsedHeight 0
 :nonce 1680218944784}}
-:block/updated-at 1680218955952})
+:block/updated-at 1680218967591})
 :pages (
 {:block/uuid #uuid "64261b36-b9e4-4e84-8882-d69dc307c589"
 :block/properties 
@@ -47,7 +47,7 @@
 :nonce 1
 :assets []
 :shapes-index ("a8fcef90-cf52-11ed-b7c8-71e33fd90152")}}
-:block/updated-at 1680218955952
+:block/updated-at 1680218967591
 :block/created-at 1680218934056
 :block/type "whiteboard"
 :block/name "random impulse knowledge"
