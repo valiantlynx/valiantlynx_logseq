@@ -135,13 +135,18 @@
 	SCHEDULED: <2023-04-07 Sun 06:00 ++1w>
 	- 9:30am - Breakfast
 	SCHEDULED: <2023-04-07 Sun 06:30 ++1w>
-	
 	- 10:00am - Statistic study
+	SCHEDULED: <2023-04-07 Sun 07:00 ++1w>
 	- 1:00pm - Lunch
+	SCHEDULED: <2023-04-07 Sun 13:00 ++1w>
 	- 2:00pm - Termodynamikk study
+	SCHEDULED: <2023-04-07 Sun 14:00 ++1w>
 	- 5:00pm - Dinner
+	SCHEDULED: <2023-04-07 Sun 17:00 ++1w>
 	- 6:00pm - Produktutvikling study
+	SCHEDULED: <2023-04-07 Sun 18:00 ++1w>
 	- 8:00pm - Sleep
+	SCHEDULED: <2023-04-07 Sun 20:00 ++1w>
 -
 - Sunday:
 	- 9:00am - Wake up
