@@ -4,6 +4,7 @@
 	- LATER am - Wake up >[2023-04-02 06:00 - 06:30](#agenda://?start=1680408000000&end=1680409830000&allDay=false)
 	  :LOGBOOK:
 	  CLOCK: [2023-03-30 Thu 22:06:38]--[2023-03-30 Thu 22:06:40] =>  00:00:02
+	  CLOCK: [2023-03-31 Fri 01:36:00]--[2023-03-31 Fri 01:36:00] =>  00:00:00
 	  :END:
 	- LATER 6:30am - Breakfast
 	  SCHEDULED: <2023-04-02 Sun 06:30 ++1w>
