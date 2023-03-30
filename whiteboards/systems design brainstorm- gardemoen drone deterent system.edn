@@ -1,12 +1,14 @@
 {:blocks (
-{:block/content "nmport"
+{:block/content "nmport\n![system design.png](../assets/system_design_1680218485478_0.png)"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "6426193b-cbc6-4ad6-92c6-13af9e84c013"}
 :block/parent 
 {:block/uuid #uuid "6426193b-cbc6-4ad6-92c6-13af9e84c013"}
+:block/properties 
+{}
 :block/uuid #uuid "6426196e-d4c0-4778-b904-d838fdb11a67"} 
-{:block/created-at 1680218480400
+{:block/created-at 1680218486813
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -22,7 +24,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 41]
+:size [400 488.09375]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -31,8 +33,8 @@
 :point [-1.566625976562932 -1.1666564941404545]
 :parentId "6426193b-cbc6-4ad6-92c6-13af9e84c013"
 :collapsedHeight 0
-:nonce 1680218473999}}
-:block/updated-at 1680218480400})
+:nonce 1680218474004}}
+:block/updated-at 1680218486813})
 :pages (
 {:block/uuid #uuid "6426193b-cbc6-4ad6-92c6-13af9e84c013"
 :block/properties 
@@ -45,7 +47,7 @@
 :nonce 1
 :assets []
 :shapes-index ("90614db0-cf51-11ed-b7c8-71e33fd90152")}}
-:block/updated-at 1680218480399
+:block/updated-at 1680218486813
 :block/created-at 1680218427790
 :block/type "whiteboard"
 :block/name "systems design brainstorm- gardemoen drone deterent system"
