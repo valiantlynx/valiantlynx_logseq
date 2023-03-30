@@ -2,5 +2,5 @@
 - [[Loadings, Stresses, & Stress-Strain Transformation]]
 - [[Fatigue Theories]]
 - [[Fatigue Failure]]
-- LATER read up on failure theories [[Mar 16th, 2023]]
+- DONE read up on failure theories [[Mar 16th, 2023]]
 -
