@@ -12,7 +12,7 @@
   5:00pm - Dinner
   6:00pm - Fysikk1 study
   8:00pm - Sleep
-  Tuesday:
+- Tuesday:
   6:00am - Wake up
   6:30am - Breakfast
   7:00am - Solidworks modelling3 study
@@ -24,7 +24,7 @@
   5:00pm - Dinner
   6:00pm - Fysikk1 study
   8:00pm - Sleep
-  Wednesday:
+- Wednesday:
   6:00am - Wake up
   6:30am - Breakfast
   7:00am - Solidworks modelling3 study
@@ -36,7 +36,7 @@
   5:00pm - Dinner
   6:00pm - Fysikk1 study
   8:00pm - Sleep
-  Thursday:
+- Thursday:
   6:00am - Wake up
   6:30am - Breakfast
   7:00am - Solidworks modelling3 study
@@ -48,7 +48,7 @@
   5:00pm - Dinner
   6:00pm - Fysikk1 study
   8:00pm - Sleep
-  Friday:
+- Friday:
   6:00am - Wake up
   6:30am - Breakfast
   7:00am - Solidworks modelling3 study
