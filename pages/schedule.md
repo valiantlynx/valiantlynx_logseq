@@ -72,11 +72,11 @@
   6:00pm - Produktutvikling study
   8:00pm - Sleep
 - Sunday:
-  9:00am - Wake up
-  9:30am - Breakfast
-  10:00am - Materialteknikk study
-  1:00pm - Lunch
-  2:00pm - Systems Design and Engineering study
-  5:00pm - Dinner
-  6:00pm - Free time
-  8:00pm - Sleep
+- 9:00am - Wake up
+- 9:30am - Breakfast
+- 10:00am - Materialteknikk study
+- 1:00pm - Lunch
+- 2:00pm - Systems Design and Engineering study
+- 5:00pm - Dinner
+- 6:00pm - Free time
+- 8:00pm - Sleep
