@@ -95,3 +95,4 @@ X &\sim {\sf Norm}(10, 3) \\
 produces
 
 aX5=b∼Norm(10,3)≤10
+-
