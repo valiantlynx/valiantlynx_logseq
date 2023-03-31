@@ -79,7 +79,7 @@
 - X = μ + σ*z = 930 + 290*1.56 ≈ 1374
 - Så 6% av klasserommene har en CO2-konsentrasjon høyere enn 1370 ppm (nærmeste hele tall som er delelig med 10).
 -
--
+- **spørsmål 7**
 - Vi er i den samme situasjonen som i Spørsmål 4.
   Hvor stor sannsynlighet er det for at minst tre av ti tilfeldig valgte klasserom har høyere CO2
   -konsentrasjon enn 1020
@@ -93,14 +93,14 @@
 	- Dermed får vi:
 	  P(X ≥ 3) ≈ 1 - 0.433 ≈ 0.567
 	- Så sannsynligheten for at minst tre av de 30 klasserommene har en CO2-konsentrasjon høyere enn 1020 ppm, er ca. 0.567, eller 56.7%.
+	- **spørsmål 7**
 	- La T
 	   betegne levetiden (i år) til en bestemt type maskinkomponenter, og anta at f(t)  
 	   er sannsynlighetstettheten til T  
 	   og er gitt ved  f(t) = (t/5)*e^((t^2)/10)  
 	  Finn sannsynligheten for at en maskinkomponent har levetid på over to år.
 	- Hint: P(T > a) =∫_{ a}^{ \infty} f(t) dt = e^((-a^2)/10)
-	  
-	  Vi ønsker å finne sannsynligheten for at en maskinkomponent har levetid på over to år, altså P(T > 2). Siden f(t) er sannsynlighetstettheten til T, vet vi at sannsynligheten for en tilfeldig valgt verdi av T mellom a og b er gitt ved
+	- Vi ønsker å finne sannsynligheten for at en maskinkomponent har levetid på over to år, altså P(T > 2). Siden f(t) er sannsynlighetstettheten til T, vet vi at sannsynligheten for en tilfeldig valgt verdi av T mellom a og b er gitt ved
 	  
 	  ∫_{a}^{b} f(t) dt
 	  
