@@ -1,5 +1,5 @@
 - ![Oppgavesett4_v23.pdf](../assets/Oppgavesett4_v23_1680259878832_0.pdf)
-- ****
+- **question 1**
 - I en bestemt bydel har antall biler X, knyttet til en bestemt husstand, følgende sannsynlighetsfordeling: 
   Antall biler,sansynlighet
   0,0.18
