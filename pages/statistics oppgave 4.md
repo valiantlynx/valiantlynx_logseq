@@ -139,5 +139,3 @@
 	  = e^(8/10)
 	  = 0.4493
 	- Sannsynligheten for at maskinkomponenten fungerer i minst to år til gitt at den allerede har fungert i ett år, er 0.4493.
-	-
-	-
