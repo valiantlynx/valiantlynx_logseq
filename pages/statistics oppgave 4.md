@@ -1,4 +1,5 @@
 - ![Oppgavesett4_v23.pdf](../assets/Oppgavesett4_v23_1680259878832_0.pdf)
+- ****
 - I en bestemt bydel har antall biler X, knyttet til en bestemt husstand, følgende sannsynlighetsfordeling: 
   Antall biler,sansynlighet
   0,0.18
@@ -12,7 +13,7 @@
 - E(X) = 0 + 0.54 + 0.5 + 0.09
 - E(X) = 1.13
 - Så forventet antall biler i en husstand er 1.13.
-- ****
+- **question 2**
 - Vi har den samme sannsynlighetsfordelingen som i Spørsmål 1.
   Finn variansen til antall biler i en hustand.
 - For å finne variansen til antall biler i en husstand, kan vi bruke formelen:
