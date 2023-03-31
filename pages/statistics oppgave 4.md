@@ -100,7 +100,7 @@
    er sannsynlighetstettheten til T  
    og er gitt ved  f(t) = (t/5)*e^((t^2)/10)  
   Finn sannsynligheten for at en maskinkomponent har levetid på over to år.
-- Hint: P(T > a) =∫_{ a}^{ \infty} f(t) dt = e^((-a^2)/10)
+  Hint: P(T > a) =∫_{ a}^{ \infty} f(t) dt = e^((-a^2)/10)
 	- Vi ønsker å finne sannsynligheten for at en maskinkomponent har levetid på over to år, altså P(T > 2). Siden f(t) er sannsynlighetstettheten til T, vet vi at sannsynligheten for en tilfeldig valgt verdi av T mellom a og b er gitt ved
 	  
 	  ∫_{a}^{b} f(t) dt
