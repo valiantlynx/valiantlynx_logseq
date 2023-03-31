@@ -1,4 +1,3 @@
--
 #### R Pruim
 #### October 19, 2016
 ## Math inside RMarkdown
