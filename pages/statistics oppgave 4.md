@@ -1,5 +1,5 @@
 - ![Oppgavesett4_v23.pdf](../assets/Oppgavesett4_v23_1680259878832_0.pdf)
-- **question 1**
+- **spørsmål 1**
 - I en bestemt bydel har antall biler X, knyttet til en bestemt husstand, følgende sannsynlighetsfordeling: 
   Antall biler,sansynlighet
   0,0.18
@@ -13,7 +13,7 @@
 - E(X) = 0 + 0.54 + 0.5 + 0.09
 - E(X) = 1.13
 - Så forventet antall biler i en husstand er 1.13.
-- **question 2**
+- **spørsmål 2**
 - Vi har den samme sannsynlighetsfordelingen som i Spørsmål 1.
   Finn variansen til antall biler i en hustand.
 - For å finne variansen til antall biler i en husstand, kan vi bruke formelen:
@@ -29,7 +29,7 @@
   Var(X) = 1.81 - 1.2769
 - Var(X) = 0.5331
 - Så variansen til antall biler i en husstand er 0.5331.
-- **question 3**
+- **spørms 3**
 - Vi har den samme sannsynlighetsfordelingen som i Spørsmål 1.
   Benytt sentralgrenseteoremet med heltallskorreksjon til å bestemme tilnærmet sannsynligheten for at 100 husstander i dette området til sammen har høyst 120 biler (altså 120 eller færre).
 - Vi kan bruke sentralgrenseteoremet for å tilnærme sannsynligheten for at 100 husstander i dette området til sammen har høyst 120 biler. Først må vi finne gjennomsnitt og standardavvik for antall biler i en husstand:
