@@ -93,6 +93,7 @@
 - Dermed får vi:
   P(X ≥ 3) ≈ 1 - 0.433 ≈ 0.567
 - Så sannsynligheten for at minst tre av de 30 klasserommene har en CO2-konsentrasjon høyere enn 1020 ppm, er ca. 0.567, eller 56.7%.
+-
 - ![gormerykombo@gmail.com](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F5e2fd707bb5d30b48ff2f9b5bfd581ee%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fgo.png&w=64&q=75)
 - La T
    betegne levetiden (i år) til en bestemt type maskinkomponenter, og anta at f(t)
