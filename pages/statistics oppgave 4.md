@@ -120,6 +120,7 @@
   ≈ (1/5) * [e^(-2.5)*sqrt(10)*arctan(sqrt(10)/2) - 0.019]
 - ≈ 0.484
 - Så sannsynligheten for at en maskinkomponent har levetid på over to år, er ca. 0.484, eller 48.4%.
+-
 - ![gormerykombo@gmail.com](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F5e2fd707bb5d30b48ff2f9b5bfd581ee%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fgo.png&w=64&q=75)
 - Vi er i den samme situasjonen som i Spørsmål 7.
 - Hvor stor er sannsynligheten for at den fungerer i minst to år til dersom den allerede har fungert i ett år? 
@@ -141,6 +142,7 @@
   = e^(8/10)
   = 0.4493
 - Sannsynligheten for at maskinkomponenten fungerer i minst to år til gitt at den allerede har fungert i ett år, er 0.4493.
+-
 - ![gormerykombo@gmail.com](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F5e2fd707bb5d30b48ff2f9b5bfd581ee%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fgo.png&w=64&q=75)
 - Vi er i den samme situasjonen som i Spørsmål 7.
   Finn forventet  levetiden til  denne type maskinkomponent.
