@@ -98,8 +98,9 @@
 - La T
    betegne levetiden (i år) til en bestemt type maskinkomponenter, og anta at f(t)
    er sannsynlighetstettheten til T
-   og er gitt ved  f(t) = (t/5)*e^((t^2)/10)
-  Finn sannsynligheten for at en maskinkomponent har levetid på over to år.
+   og er gitt ved
+- f(t) = (t/5)*e^((t^2)/10)
+- Finn sannsynligheten for at en maskinkomponent har levetid på over to år.
 - Hint: P(T > a) =\int_{a}^{\infty} f(t) dt = e^((-a^2)/10)
 - Vi har at sannsynlighetstettheten til T, f(t), er gitt ved f(t) = (t/5)*e^((t^2)/10). Vi ønsker å finne sannsynligheten for at en maskinkomponent har levetid på over to år, altså P(T > 2).
 - Vi kan finne P(T > 2) ved å integrere sannsynlighetstettheten fra 2 til uendelig:
