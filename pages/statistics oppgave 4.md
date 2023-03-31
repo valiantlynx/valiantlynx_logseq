@@ -94,30 +94,30 @@
 	  P(X ≥ 3) ≈ 1 - 0.433 ≈ 0.567
 	- Så sannsynligheten for at minst tre av de 30 klasserommene har en CO2-konsentrasjon høyere enn 1020 ppm, er ca. 0.567, eller 56.7%.
 -
-	- **spørsmål 7**
-	- La T
-	   betegne levetiden (i år) til en bestemt type maskinkomponenter, og anta at f(t)  
-	   er sannsynlighetstettheten til T  
-	   og er gitt ved  f(t) = (t/5)*e^((t^2)/10)  
-	  Finn sannsynligheten for at en maskinkomponent har levetid på over to år.
-	- Hint: P(T > a) =∫_{ a}^{ \infty} f(t) dt = e^((-a^2)/10)
-		- Vi ønsker å finne sannsynligheten for at en maskinkomponent har levetid på over to år, altså P(T > 2). Siden f(t) er sannsynlighetstettheten til T, vet vi at sannsynligheten for en tilfeldig valgt verdi av T mellom a og b er gitt ved
-		  
-		  ∫_{a}^{b} f(t) dt
-		  
-		  Vi kan dermed finne P(T > 2) som
-		  
-		  ∫_{2}^{ \infty} f(t) dt
-		  
-		  Vi setter inn verdien for f(t) og integrerer:
-		  
-		  ∫_{2}^{ \infty} f(t) dt = ∫_{2}^{ \infty} (t/5)*e^((t^2)/10) dt
-		  
-		  Dette integralet kan løses ved partiell integrasjon, og vi får:
-		  
-		  ∫_{2}^{ \infty} (t/5)*e^((t^2)/10) dt = [-e^((t^2)/10)]_{2}^{ \infty} = e^(-2/5)
-		  
-		  Så sannsynligheten for at en maskinkomponent har levetid på over to år er e^(-2/5) ≈ 0.6703.
+- **spørsmål 7**
+- La T
+   betegne levetiden (i år) til en bestemt type maskinkomponenter, og anta at f(t)  
+   er sannsynlighetstettheten til T  
+   og er gitt ved  f(t) = (t/5)*e^((t^2)/10)  
+  Finn sannsynligheten for at en maskinkomponent har levetid på over to år.
+- Hint: P(T > a) =∫_{ a}^{ \infty} f(t) dt = e^((-a^2)/10)
+	- Vi ønsker å finne sannsynligheten for at en maskinkomponent har levetid på over to år, altså P(T > 2). Siden f(t) er sannsynlighetstettheten til T, vet vi at sannsynligheten for en tilfeldig valgt verdi av T mellom a og b er gitt ved
+	  
+	  ∫_{a}^{b} f(t) dt
+	  
+	  Vi kan dermed finne P(T > 2) som
+	  
+	  ∫_{2}^{ \infty} f(t) dt
+	  
+	  Vi setter inn verdien for f(t) og integrerer:
+	  
+	  ∫_{2}^{ \infty} f(t) dt = ∫_{2}^{ \infty} (t/5)*e^((t^2)/10) dt
+	  
+	  Dette integralet kan løses ved partiell integrasjon, og vi får:
+	  
+	  ∫_{2}^{ \infty} (t/5)*e^((t^2)/10) dt = [-e^((t^2)/10)]_{2}^{ \infty} = e^(-2/5)
+	  
+	  Så sannsynligheten for at en maskinkomponent har levetid på over to år er e^(-2/5) ≈ 0.6703.
 -
 - **spørsmål 8**
 - Vi er i den samme situasjonen som i Spørsmål 7.
