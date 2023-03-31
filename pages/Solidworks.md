@@ -1,3 +1,1 @@
 - manual: ![WhatsNew.pdf](../assets/WhatsNew_1680259686092_0.pdf)
-- file:///C:/Program%20Files/SOLIDWORKS%20Corp/SOLIDWORKS/lang/english/manuals/whatsnew.pdf
--
