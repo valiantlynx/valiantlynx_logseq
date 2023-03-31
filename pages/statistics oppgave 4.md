@@ -48,14 +48,14 @@
 - P(Z ≤ 0.958) = 0.8315
 - Sannsynligheten for at 100 husstander til sammen har høyst 120 biler er dermed ca. 0.8315, eller rundet til 83%.
 - ![gormerykombo@gmail.com](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F5e2fd707bb5d30b48ff2f9b5bfd581ee%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fgo.png&w=64&q=75)
--
-- Vi betrakter CO2
-  -konsentrasjonen K
-   i et tilfeldig valgt klasserom med elever til stede. Anta at K
-   er normalfordelt med forventning 930
-   og standardavvik 290.
-- Finn sannsynligheten for at et klasserom har høyere CO2
-  -konsentrasjon enn 1020 ppm.
+- ** spørsmål 4
+	- Vi betrakter CO2
+	  -konsentrasjonen K
+	   i et tilfeldig valgt klasserom med elever til stede. Anta at K
+	   er normalfordelt med forventning 930
+	   og standardavvik 290.
+	- Finn sannsynligheten for at et klasserom har høyere CO2
+	  -konsentrasjon enn 1020 ppm.
 - Vi har at CO2-konsentrasjonen K i et tilfeldig valgt klasserom er normalfordelt med forventning μ = 930 og standardavvik σ = 290. Vi ønsker å finne sannsynligheten for at K er høyere enn 1020 ppm.
 - La X være en normalfordelt variabel med forventning μ = 930 og standardavvik σ = 290. Vi ønsker å finne P(X > 1020).
   Vi kan standardisere X ved å trekke fra gjennomsnittet og dele på standardavviket, og dermed finne P(Z > z), der Z er standardnormalfordelt og z = (1020 - 930) / 290 = 0.31.
