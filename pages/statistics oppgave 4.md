@@ -79,7 +79,7 @@
 - X = μ + σ*z = 930 + 290*1.56 ≈ 1374
 - Så 6% av klasserommene har en CO2-konsentrasjon høyere enn 1370 ppm (nærmeste hele tall som er delelig med 10).
 -
-- **spørsmål 7**
+- **spørsmål **
 - Vi er i den samme situasjonen som i Spørsmål 4.
   Hvor stor sannsynlighet er det for at minst tre av ti tilfeldig valgte klasserom har høyere CO2
   -konsentrasjon enn 1020
@@ -111,7 +111,7 @@
 	  
 	  Vi setter inn verdien for f(t) og integrerer:
 	  
-	  $∫_{2}^{ \infty} f(t) dt = ∫_{2}^{ \infty} (t/5)*e^((t^2)/10) dt$
+	  ∫_{2}^{ \infty} f(t) dt = ∫_{2}^{ \infty} (t/5)*e^((t^2)/10) dt
 	  
 	  Dette integralet kan løses ved partiell integrasjon, og vi får:
 	  
