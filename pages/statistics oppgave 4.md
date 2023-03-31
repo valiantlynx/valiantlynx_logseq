@@ -111,7 +111,7 @@
 	  
 	  Vi setter inn verdien for f(t) og integrerer:
 	  
-	  ∫_{2}^{ \infty} f(t) dt = ∫_{2}^{ \infty} (t/5)*e^((t^2)/10) dt
+	  ∫_{2}^{ \infty} f(t) dt = ∫_{2}^{ \infty} (t/5)*e^((t^2)/10) dt$
 	  | 
 	  $\int_{a}^{\infty}$ |
 	  
