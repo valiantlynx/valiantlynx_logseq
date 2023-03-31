@@ -78,8 +78,7 @@
 - Løser for X får vi:
 - X = μ + σ*z = 930 + 290*1.56 ≈ 1374
 - Så 6% av klasserommene har en CO2-konsentrasjon høyere enn 1370 ppm (nærmeste hele tall som er delelig med 10).
--
-- ![gormerykombo@gmail.com](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F5e2fd707bb5d30b48ff2f9b5bfd581ee%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fgo.png&w=64&q=75)
+- **spørsmål 7**
 - Vi er i den samme situasjonen som i Spørsmål 4.
 - Hvor stor sannsynlighet er det for at minst tre av ti tilfeldig valgte klasserom har høyere CO2
   -konsentrasjon enn 1020
