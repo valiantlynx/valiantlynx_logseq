@@ -29,7 +29,7 @@
   Var(X) = 1.81 - 1.2769
 - Var(X) = 0.5331
 - Så variansen til antall biler i en husstand er 0.5331.
-- **spørms 3**
+- **spørmål 3**
 - Vi har den samme sannsynlighetsfordelingen som i Spørsmål 1.
   Benytt sentralgrenseteoremet med heltallskorreksjon til å bestemme tilnærmet sannsynligheten for at 100 husstander i dette området til sammen har høyst 120 biler (altså 120 eller færre).
 - Vi kan bruke sentralgrenseteoremet for å tilnærme sannsynligheten for at 100 husstander i dette området til sammen har høyst 120 biler. Først må vi finne gjennomsnitt og standardavvik for antall biler i en husstand:
