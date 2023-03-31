@@ -1,1 +1,2 @@
-- manual:
+- manual: [sw manual link.txt](../assets/sw_manual_link_1680259522663_0.txt)
+-
