@@ -1,1 +1,3 @@
+- ![Oppgavesett4_v23.pdf](../assets/Oppgavesett4_v23_1680259878832_0.pdf)
+-
 -
