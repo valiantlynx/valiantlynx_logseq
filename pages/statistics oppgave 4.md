@@ -47,8 +47,7 @@
 - Sannsynligheten for at Z ≤ 0.958 kan finnes fra en standard normalfordelings-tabell eller ved hjelp av en kalkulator. Fra en standard normalfordelings-tabell får vi:
 - P(Z ≤ 0.958) = 0.8315
 - Sannsynligheten for at 100 husstander til sammen har høyst 120 biler er dermed ca. 0.8315, eller rundet til 83%.
-- ![gormerykombo@gmail.com](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F5e2fd707bb5d30b48ff2f9b5bfd581ee%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fgo.png&w=64&q=75)
-- ** spørsmål 4**
+- **spørsmål 4**
 	- Vi betrakter CO2
 	  -konsentrasjonen K
 	   i et tilfeldig valgt klasserom med elever til stede. Anta at K
