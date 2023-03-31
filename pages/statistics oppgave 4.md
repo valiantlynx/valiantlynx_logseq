@@ -81,7 +81,7 @@
 -
 - **spørsmål 7**
 - Vi er i den samme situasjonen som i Spørsmål 4.
-- Hvor stor sannsynlighet er det for at minst tre av ti tilfeldig valgte klasserom har høyere CO2
+  Hvor stor sannsynlighet er det for at minst tre av ti tilfeldig valgte klasserom har høyere CO2
   -konsentrasjon enn 1020
    ppm?
 	- Vi har at CO2-konsentrasjonen K i et tilfeldig valgt klasserom er normalfordelt med forventning μ = 930 og standardavvik σ = 290. Vi ønsker å finne sannsynligheten for at minst tre av ti tilfeldig valgte klasserom har en CO2-konsentrasjon høyere enn 1020 ppm.
@@ -123,21 +123,21 @@
 - Hvor stor er sannsynligheten for at den fungerer i minst to år til dersom den allerede har fungert i ett år? 
   Hint: Finn P(T > 3|T > 1) 
   .
-- Vi kan bruke Bayes' teorem for å finne sannsynligheten for at maskinkomponenten fungerer i minst to år til gitt at den allerede har fungert i ett år:
-- P(T > 3 | T > 1) = P(T > 3 and T > 1) / P(T > 1)
-- Vi kan forenkle uttrykket i telleren ved å merke oss at T > 3 innebærer T > 1, så vi kan skrive
-- P(T > 3 and T > 1) = P(T > 3)
-- Vi kan bruke sannsynlighetstettheten f(t) til å finne denne sannsynligheten:
-- P(T > 3) = ∫3^∞ f(t) dt
-  = ∫3^∞ (t/5) * e^(t^2/10) dt
-  = [e^(t^2/10)]_3^∞
-  = e^(9/10)
-- Så vi har
-- P(T > 3 | T > 1) = P(T > 3) / P(T > 1)
-  = e^(9/10) / ∫1^∞ f(t) dt
-  = e^(9/10) / [e^(1/10)]
-  = e^(8/10)
-  = 0.4493
-- Sannsynligheten for at maskinkomponenten fungerer i minst to år til gitt at den allerede har fungert i ett år, er 0.4493.
--
--
+	- Vi kan bruke Bayes' teorem for å finne sannsynligheten for at maskinkomponenten fungerer i minst to år til gitt at den allerede har fungert i ett år:
+	- P(T > 3 | T > 1) = P(T > 3 and T > 1) / P(T > 1)
+	- Vi kan forenkle uttrykket i telleren ved å merke oss at T > 3 innebærer T > 1, så vi kan skrive
+	- P(T > 3 and T > 1) = P(T > 3)
+	- Vi kan bruke sannsynlighetstettheten f(t) til å finne denne sannsynligheten:
+	- P(T > 3) = ∫3^∞ f(t) dt
+	  = ∫3^∞ (t/5) * e^(t^2/10) dt
+	  = [e^(t^2/10)]_3^∞
+	  = e^(9/10)
+	- Så vi har
+	- P(T > 3 | T > 1) = P(T > 3) / P(T > 1)
+	  = e^(9/10) / ∫1^∞ f(t) dt
+	  = e^(9/10) / [e^(1/10)]
+	  = e^(8/10)
+	  = 0.4493
+	- Sannsynligheten for at maskinkomponenten fungerer i minst to år til gitt at den allerede har fungert i ett år, er 0.4493.
+	-
+	-
