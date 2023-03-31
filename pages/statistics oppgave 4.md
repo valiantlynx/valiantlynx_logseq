@@ -118,7 +118,6 @@
 	  ∫_{2}^{ \infty} (t/5)*e^((t^2)/10) dt = [-e^((t^2)/10)]_{2}^{ \infty} = e^(-2/5)
 	  
 	  Så sannsynligheten for at en maskinkomponent har levetid på over to år er e^(-2/5) ≈ 0.6703.
--
 - **spørsmål 8**
 - Vi er i den samme situasjonen som i Spørsmål 7.
 - Hvor stor er sannsynligheten for at den fungerer i minst to år til dersom den allerede har fungert i ett år? 
