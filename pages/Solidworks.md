@@ -1,2 +1,3 @@
 - manual: [sw manual link.txt](../assets/sw_manual_link_1680259522663_0.txt)
+- file:///C:/Program%20Files/SOLIDWORKS%20Corp/SOLIDWORKS/lang/english/manuals/whatsnew.pdf
 -
