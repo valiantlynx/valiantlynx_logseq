@@ -173,3 +173,4 @@
 - ��=Var⁡(�)=5�4=5�2*σ**T*​=Var(*T*)​=45*π*​​=25*π*​​
 - Så standardavviket til levetiden til maskinkomponenten er $\frac{\sqrt{5\pi}}{2}$.
 -
+-
