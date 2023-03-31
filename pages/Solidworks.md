@@ -1,3 +1,3 @@
-- manual: [index.txt](../assets/index_1680259611345_0.txt)
+- manual:
 - file:///C:/Program%20Files/SOLIDWORKS%20Corp/SOLIDWORKS/lang/english/manuals/whatsnew.pdf
 -
