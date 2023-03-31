@@ -93,34 +93,29 @@
 - Dermed får vi:
   P(X ≥ 3) ≈ 1 - 0.433 ≈ 0.567
 - Så sannsynligheten for at minst tre av de 30 klasserommene har en CO2-konsentrasjon høyere enn 1020 ppm, er ca. 0.567, eller 56.7%.
--
+- Vi ønsker å finne sannsynligheten for at en maskinkomponent har levetid på over to år, altså P(T > 2). Siden f(t) er sannsynlighetstettheten til T, vet vi at sannsynligheten for en tilfeldig valgt verdi av T mellom a og b er gitt ved
+- ∫_{a}^{b} f(t) dt
+- Vi kan dermed finne P(T > 2) som
+- ∫_{2}^{ \infty} f(t) dt
+- Vi setter inn verdien for f(t) og integrerer:
+- ∫_{2}^{ \infty} f(t) dt = ∫_{2}^{ \infty} (t/5)*e^((t^2)/10) dt
+- Dette integralet kan løses ved partiell integrasjon, og vi får:
+- ∫_{2}^{ \infty} (t/5)*e^((t^2)/10) dt = [-e^((t^2)/10)]_{2}^{ \infty} = e^(-2/5)
+- Så sannsynligheten for at en maskinkomponent har levetid på over to år er e^(-2/5) ≈ 0.6703.
 - ![gormerykombo@gmail.com](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F5e2fd707bb5d30b48ff2f9b5bfd581ee%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fgo.png&w=64&q=75)
-- La T
-   betegne levetiden (i år) til en bestemt type maskinkomponenter, og anta at f(t)
-   er sannsynlighetstettheten til T
-   og er gitt ved
+- 4 / 4
+- Vi er i den samme situasjonen som i Spørsmål 7.
+  Finn forventet  levetiden til  denne type maskinkomponent.
+- Forventet verdi (også kalt "middelverdi" eller "forventning") til en kontinuerlig stokastisk variabel T med sannsynlighetstetthet f(t) er gitt ved:
+- E(T) = ∫_{-∞}^{∞} t*f(t) dt
+- I dette tilfellet er sannsynlighetstettheten f(t) gitt ved:
 - f(t) = (t/5)*e^((t^2)/10)
-- Finn sannsynligheten for at en maskinkomponent har levetid på over to år.
-- Hint: P(T > a) =\int_{a}^{\infty} f(t) dt = e^((-a^2)/10)
-- Vi har at sannsynlighetstettheten til T, f(t), er gitt ved f(t) = (t/5)*e^((t^2)/10). Vi ønsker å finne sannsynligheten for at en maskinkomponent har levetid på over to år, altså P(T > 2).
-- Vi kan finne P(T > 2) ved å integrere sannsynlighetstettheten fra 2 til uendelig:
-- P(T > 2) = ∫₂^∞ f(t) dt
-- = ∫₂^∞ (t/5)*e^((t^2)/10) dt
-- Vi kan bruke en trigonometrisk substitusjon t = sqrt(10)*tan(u) for å løse dette integralet:
-- = (1/5) * ∫arctan(sqrt(10)/2)^π/2 (sqrt(10)*tan(u)) * e^(10*tan(u)^2/10) sec(u)^2 du
-- = (1/5) * ∫arctan(sqrt(10)/2)^π/2 (sqrt(10)*tan(u)) * e^(5tan(u)^2) du
-- Dette integralet kan ikke løses eksplisitt, men vi kan bruke egenskapene til den feilintegrerte funksjonen til å få:
-  = (1/5) * [e^(-2.5)*sqrt(10)*arctan(sqrt(10)/2) - ∫arctan(sqrt(10)/2)^π/2 (1/5)*e^(5tan(u)^2) du]
-  = (1/5) * [e^(-2.5)*sqrt(10)*arctan(sqrt(10)/2) - ∫arctan(sqrt(10)/2)^π/2 f(t) dt]
-- der f(t) = (1/5)*e^(5t^2)
-- Vi kan bruke resultatet fra hintet i oppgaven til å finne ∫arctan(sqrt(10)/2)^π/2 f(t) dt:
-- ∫arctan(sqrt(10)/2)^π/2 f(t) dt = e^(-50/4) ≈ 0.019
-- Dermed får vi:
-  P(T > 2) ≈ (1/5) * [e^(-2.5)*sqrt(10)*arctan(sqrt(10)/2) - ∫arctan(sqrt(10)/2)^π/2 f(t) dt]
-  ≈ (1/5) * [e^(-2.5)*sqrt(10)*arctan(sqrt(10)/2) - 0.019]
-- ≈ 0.484
-- Så sannsynligheten for at en maskinkomponent har levetid på over to år, er ca. 0.484, eller 48.4%.
--
+- Så forventet levetid er:
+- E(T) = ∫_{-∞}^{∞} t*f(t) dt = ∫_{0}^{∞} t*(t/5)*e^((t^2)/10) dt
+- Vi kan forenkle dette ved å sette u = t^2/10, slik at du = (2t/10) dt = (t/5) dt, og dermed får vi:
+- E(T) = 2∫_{0}^{∞} u*e^u du = 2
+- Vi har brukt at ∫_{0}^{∞} u*e^u du = 1 (dette kan vises ved integrasjon ved deler eller ved å se at det er en gamma-funksjon).
+- Så forventet levetid til denne typen maskinkomponenter er 2 år.
 - ![gormerykombo@gmail.com](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F5e2fd707bb5d30b48ff2f9b5bfd581ee%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fgo.png&w=64&q=75)
 - Vi er i den samme situasjonen som i Spørsmål 7.
 - Hvor stor er sannsynligheten for at den fungerer i minst to år til dersom den allerede har fungert i ett år? 
