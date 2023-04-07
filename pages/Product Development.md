@@ -2,6 +2,7 @@
 - [[Loadings, Stresses, & Stress-Strain Transformation]]
 - [[Fatigue Theories]]
 - [[Fatigue Failure]]
+- [[screw design]]
 -
 - DONE read up on failure theories [[Mar 16th, 2023]]
 -
