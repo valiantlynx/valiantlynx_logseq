@@ -1,6 +1,6 @@
 - For the C clamp shown, a force is applied at the end of the 3/8-in diameter handle. The screw is a 3/4 in-6 Acme thread (see the figure), and is 10 in long overall, with a maximum of 8 in possible in the clamping region. The handle and screw are both made from cold-drawn AISI 1006 steel. The coefficients of friction for the screw and the collar are 0.15. The collar, which in this case is the anvil striker’s swivel joint, has a friction diameter of 1 in. It is desired that the handle will yield before the screw will fail. Check this by the following steps.
 	- **(a)** Determine the maximum force that can be applied to the end of the handle to reach the point of yielding of the handle.
-		- The yield strength of cold-drawn AISI 1006 steel is 30,000 psi. The cross-sectional area of the handle can be found using the formula for the area of a circle:
+		- yield strength of cold-drawn AISI 1006 steel is 30,000 psi. The cross-sectional area of the handle can be found using the formula for the area of a circle:
 		- A_handle = π/4 * d_handle^2 = π/4 * (3/8 in)^2 = 0.08836 in^2
 		- The maximum force that can be applied to the handle before it yields is:
 		- F_yielding_handle = σ_yielding * A_handle = 30,000 psi * 0.08836 in^2 = 2,650.8 lbf
