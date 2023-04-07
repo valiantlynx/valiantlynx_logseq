@@ -17,7 +17,6 @@
 			- F_applied = 2,650.8 lbf * 0.15 / (0.15 + 8/10) = 68 lbf
 		- Therefore, the maximum force that can be applied to the end of the handle to reach the point of yielding of the handle is 68 lbf.
 	- **(b) **Using the force from part (a), determine the clamping force.
-		- Clamping force: F_clamping = 2π * (0.15) * (0.5 in) * (8 in) * (σ_yielding) / (0.75 in + 8 in) = 1540 lbf
 		- The clamping force is the force applied by the clamp onto the workpiece being held. This force can be determined by considering the equilibrium of forces acting on the clamp. The force acting on the handle creates a torque which is transmitted through the screw to the collar. The collar then applies a force onto the workpiece which creates the clamping force.
 		- Using the principle of equilibrium of forces, we can write:
 		- ΣF = 0 and ΣM = 0
