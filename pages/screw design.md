@@ -7,7 +7,7 @@
 		- the actual maximum force that can be applied to the handle is limited by the friction between the screw and the collar. The friction force can be found using the formula:
 			- F_friction = μ * F_normal
 		- μ is the friction coefficient and F_normal is the normal force between the screw and the collar. The normal force can be found using the principle of static equilibrium:
-		- F_normal + F_clamping = F_applied
+			- F_normal + F_clamping = F_applied
 		- where F_clamping is the clamping force and F_applied is the applied force at the end of the handle. The clamping force can be found using the torque balance equation:
 		- T = F_clamping * L_screw = F_applied * L_handle
 		- where L_screw is the distance between the collar and the end of the screw and L_handle is the length of the handle.
