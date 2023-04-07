@@ -26,7 +26,7 @@
 		- Final Answers:
 		- (a) 68 lbf
 		- (b) 1540 lbf
-			- (c) 2.1
+		- (c) 2.1
 			-
-			- Hint!
-			- Use Eqs. 8-5, 6, 7, 8, 11, 12; & 5-14 (Shigley, 11st Ed.).
+		- Hint!
+		- Use Eqs. 8-5, 6, 7, 8, 11, 12; & 5-14 (Shigley, 11st Ed.).
