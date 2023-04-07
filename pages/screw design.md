@@ -13,9 +13,8 @@
 			- T = F_clamping * L_screw = F_applied * L_handle
 		- L_screw is the distance between the collar and the end of the screw and L_handle is the length of the handle.
 		- Substituting the equation for F_clamping into the equation for F_normal and solving for F_applied, we get:
-		- F_applied = F_friction / (μ + L_screw/L_handle)
-		- Substituting the given values, we get:
-		- F_applied = 2,650.8 lbf * 0.15 / (0.15 + 8/10) = 68 lbf
+			- F_applied = F_friction / (μ + L_screw/L_handle)
+			- F_applied = 2,650.8 lbf * 0.15 / (0.15 + 8/10) = 68 lbf
 		- Therefore, the maximum force that can be applied to the end of the handle to reach the point of yielding of the handle is 68 lbf.
 	- **(b) **Using the force from part (a), determine the clamping force.
 		- Clamping force: F_clamping = 2π * (0.15) * (0.5 in) * (8 in) * (σ_yielding) / (0.75 in + 8 in) = 1540 lbf
