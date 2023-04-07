@@ -52,8 +52,7 @@
 			- σ_thread1 = 585.2 lbf / 0.0448 in^2 = 13,071.4 psi
 		- The factor of safety for yielding at the interface of the screw body and the base of the first engaged thread::
 			- FS_yielding = σ_yielding / (σ_thread1)
-		- Substituting the values, we get:
-		- FS_yielding = 30,000 psi / (13,071.4 psi) = 2.1
+			- FS_yielding = 30,000 psi / (13,071.4 psi) = 2.1
 		- Therefore, the factor of safety for yielding at the interface of the screw body and the base of the first engaged thread is 2.1.
 		- ![Picture1-4-1.png](../assets/Picture1-4-1_1680896755335_0.png){:height 209, :width 208}
 		- ![Picture2-1.png](../assets/Picture2-1_1680896764184_0.png)
