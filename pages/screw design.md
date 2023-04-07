@@ -2,7 +2,7 @@
   **(a) **Determine the maximum force that can be applied to the end of the handle to reach the point of yielding of the handle.
   **(b) **Using the force from part (a), determine the clamping force.
   **(c) **Using the force from part (a), determine the factor of safety for yielding at the interface of the screw body and the base of the first engaged thread, assuming the first thread carries 38 percent of the total clamping force.
-- {:height 32, :width 141}                     ![Picture2-1.png](https://usn.instructure.com/courses/28579/files/2869290/preview)
+-
 - Final Answers:
 - (a) 68 lbf
 - (b) 1540 lbf
