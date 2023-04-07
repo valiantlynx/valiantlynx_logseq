@@ -24,8 +24,8 @@
 			- thus:
 			  F_handle - F_friction_screw - F_friction_collar - F_clamping = 0
 		- where F_handle is the force applied on the handle, F_friction_screw is the frictional force between the screw and the collar, F_friction_collar is the frictional force between the collar and the workpiece, and F_clamping is the clamping force.
-		- Solving for F_clamping, we get:
-		  F_clamping = F_handle - F_friction_screw - F_friction_collar
+			- F_clamping, we get:
+			  F_clamping = F_handle - F_friction_screw - F_friction_collar
 		- The frictional force between the screw and the collar can be determined using the formula:
 		- F_friction_screw = 2π * μ_screw * d_friction * σ_yielding / L_screw
 		- where μ_screw is the coefficient of friction between the screw and the collar, d_friction is the friction diameter of the collar, L_screw is the length of engagement of the screw in the collar, and σ_yielding is the yield strength of the material.
