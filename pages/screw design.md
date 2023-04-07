@@ -17,6 +17,7 @@
 		- F_applied = 2,650.8 lbf * 0.15 / (0.15 + 8/10) = 68 lbf
 		- Therefore, the maximum force that can be applied to the end of the handle to reach the point of yielding of the handle is 68 lbf.
 	- **(b) **Using the force from part (a), determine the clamping force.
+		-
 	- **(c) **Using the force from part (a), determine the factor of safety for yielding at the interface of the screw body and the base of the first engaged thread, assuming the first thread carries 38 percent of the total clamping force.
 	- ![Picture1-4-1.png](../assets/Picture1-4-1_1680896755335_0.png){:height 209, :width 208}
 	- ![Picture2-1.png](../assets/Picture2-1_1680896764184_0.png)
