@@ -2,7 +2,7 @@
 	- **(a)** Determine the maximum force that can be applied to the end of the handle to reach the point of yielding of the handle.
 		- yield strength of cold-drawn AISI 1006 steel is 30,000 psi. The cross-sectional area of the handle can be found using the formula for the area of a circle:
 		- A_handle = π/4 * d_handle^2 = π/4 * (3/8 in)^2 = 0.08836 in^2
-		- The maximum force that can be applied to the handle before it yields is:
+		- maximum force at handle before it yields is:
 		- F_yielding_handle = σ_yielding * A_handle = 30,000 psi * 0.08836 in^2 = 2,650.8 lbf
 		- However, the actual maximum force that can be applied to the handle is limited by the friction between the screw and the collar. The friction force can be found using the formula:
 		- F_friction = μ * F_normal
