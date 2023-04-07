@@ -3,6 +3,8 @@
   **(b) **Using the force from part (a), determine the clamping force.
   **(c) **Using the force from part (a), determine the factor of safety for yielding at the interface of the screw body and the base of the first engaged thread, assuming the first thread carries 38 percent of the total clamping force.
 - ![Picture1-4-1.png](../assets/Picture1-4-1_1680896755335_0.png)
+- ![Picture2-1.png](../assets/Picture2-1_1680896764184_0.png)
+-
 - Final Answers:
 - (a) 68 lbf
 - (b) 1540 lbf
