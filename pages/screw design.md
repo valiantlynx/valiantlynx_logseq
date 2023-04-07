@@ -42,7 +42,7 @@
 		- The yield strength of the material is σ_yielding = 30,000 psi.
 		- The maximum clamping force is determined in part (b) to be F_clamping = 1540 lbf.
 		- The first step is to determine the clamping force carried by the first engaged thread. Since the first thread carries 38% of the total clamping force, we have:
-		- F_thread1 = 0.38 * F_clamping = 585.2 lbf
+			- F_thread1 = 0.38 * F_clamping = 585.2 lbf
 		- The area of the first engaged thread can be determined using the formula:
 		  A_thread1 = π/4 * (d_thread - 0.9743/n) * (0.5 * (d_thread - pitch/n))
 		- where d_thread is the major diameter of the thread, n is the number of threads per inch, and pitch is the distance between adjacent threads.
