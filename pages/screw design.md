@@ -39,7 +39,6 @@
 		- Therefore, the clamping force is 1540 lbf.
 		-
 	- **(c) **Using the force from part (a), determine the factor of safety for yielding at the interface of the screw body and the base of the first engaged thread, assuming the first thread carries 38 percent of the total clamping force.
-		- The factor of safety for yielding at the interface of the screw body and the base of the first engaged thread can be determined by considering the distribution of the clamping force among the threads engaged in the screw. It is assumed that the first thread carries 38% of the total clamping force.
 		- The yield strength of the material is σ_yielding = 30,000 psi.
 		- The maximum clamping force is determined in part (b) to be F_clamping = 1540 lbf.
 		- The first step is to determine the clamping force carried by the first engaged thread. Since the first thread carries 38% of the total clamping force, we have:
