@@ -21,8 +21,8 @@
 		- Using the principle of equilibrium of forces, we can write:
 			- ΣF = 0 and ΣM = 0
 		- where ΣF is the sum of forces and ΣM is the sum of moments.
-		- thus we have:
-		  F_handle - F_friction_screw - F_friction_collar - F_clamping = 0
+			- thus:
+			  F_handle - F_friction_screw - F_friction_collar - F_clamping = 0
 		- where F_handle is the force applied on the handle, F_friction_screw is the frictional force between the screw and the collar, F_friction_collar is the frictional force between the collar and the workpiece, and F_clamping is the clamping force.
 		- Solving for F_clamping, we get:
 		  F_clamping = F_handle - F_friction_screw - F_friction_collar
