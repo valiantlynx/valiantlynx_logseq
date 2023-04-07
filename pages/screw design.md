@@ -37,6 +37,7 @@
 		- then put the value into the formula for f_clamping:
 			- F_clamping = 2π * (0.15) * (0.5 in) * (8 in) * (σ_yielding) / (0.75 in + 8 in) = 1540 lbf
 		- Therefore, the clamping force is 1540 lbf.
+		-
 	- **(c) **Using the force from part (a), determine the factor of safety for yielding at the interface of the screw body and the base of the first engaged thread, assuming the first thread carries 38 percent of the total clamping force.
 		- Factor of safety for yielding at the interface of the screw body and the base of the first engaged thread: FS_yielding = σ_yielding / (F_clamping * 0.38 / (π/4 * (0.75 in)^2 / 6) / (π/4 * (0.75 in - 0.9743/6 in) * (0.5 * (0.75 in - 1.0825/6 in))) = 2.1
 		-
