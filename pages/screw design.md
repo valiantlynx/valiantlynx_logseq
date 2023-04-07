@@ -4,8 +4,8 @@
 			- A_handle = π/4 * d_handle^2 = π/4 * (3/8 in)^2 = 0.08836 in^2
 		- maximum force at handle before it yields:
 			- F_yielding_handle = σ_yielding * A_handle = 30,000 psi * 0.08836 in^2 = 2,650.8 lbf
-		- However, the actual maximum force that can be applied to the handle is limited by the friction between the screw and the collar. The friction force can be found using the formula:
-		- F_friction = μ * F_normal
+		- the actual maximum force that can be applied to the handle is limited by the friction between the screw and the collar. The friction force can be found using the formula:
+			- F_friction = μ * F_normal
 		- where μ is the coefficient of friction and F_normal is the normal force between the screw and the collar. The normal force can be found using the principle of static equilibrium:
 		- F_normal + F_clamping = F_applied
 		- where F_clamping is the clamping force and F_applied is the applied force at the end of the handle. The clamping force can be found using the torque balance equation:
