@@ -29,10 +29,9 @@
 		- The frictional force between the screw and the collar:
 			- F_friction_screw = 2π * μ_screw * d_friction * σ_yielding / L_screw
 		- where μ_screw is the coefficient of friction between the screw and the collar, d_friction is the friction diameter of the collar, L_screw is the length of engagement of the screw in the collar, and σ_yielding is the yield strength of the material.
-		- Substituting the given values, we get:
-		- F_friction_screw = 2π * 0.15 * 1 in * (30,000 psi) / 10 in = 707.96 lbf
+			- F_friction_screw = 2π * 0.15 * 1 in * (30,000 psi) / 10 in = 707.96 lbf
 		- The frictional force between the collar and the workpiece can be determined using the formula:
-		- F_friction_collar = μ_collar * F_clamping
+			- F_friction_collar = μ_collar * F_clamping
 		- where μ_collar is the coefficient of friction between the collar and the workpiece.
 		- Substituting the given value, we get:
 		- F_friction_collar = 0.15 * F_clamping
