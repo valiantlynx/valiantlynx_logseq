@@ -18,6 +18,28 @@
 		- Therefore, the maximum force that can be applied to the end of the handle to reach the point of yielding of the handle is 68 lbf.
 	- **(b) **Using the force from part (a), determine the clamping force.
 		- Clamping force: F_clamping = 2π * (0.15) * (0.5 in) * (8 in) * (σ_yielding) / (0.75 in + 8 in) = 1540 lbf
+		- The clamping force is the force applied by the clamp onto the workpiece being held. This force can be determined by considering the equilibrium of forces acting on the clamp. The force acting on the handle creates a torque which is transmitted through the screw to the collar. The collar then applies a force onto the workpiece which creates the clamping force.
+		- Using the principle of equilibrium of forces, we can write:
+		- ΣF = 0 and ΣM = 0
+		- where ΣF is the sum of forces and ΣM is the sum of moments.
+		- Considering the forces, we have:
+		  F_handle - F_friction_screw - F_friction_collar - F_clamping = 0
+		- where F_handle is the force applied on the handle, F_friction_screw is the frictional force between the screw and the collar, F_friction_collar is the frictional force between the collar and the workpiece, and F_clamping is the clamping force.
+		- Solving for F_clamping, we get:
+		  F_clamping = F_handle - F_friction_screw - F_friction_collar
+		- The frictional force between the screw and the collar can be determined using the formula:
+		- F_friction_screw = 2π * μ_screw * d_friction * σ_yielding / L_screw
+		- where μ_screw is the coefficient of friction between the screw and the collar, d_friction is the friction diameter of the collar, L_screw is the length of engagement of the screw in the collar, and σ_yielding is the yield strength of the material.
+		- Substituting the given values, we get:
+		- F_friction_screw = 2π * 0.15 * 1 in * (30,000 psi) / 10 in = 707.96 lbf
+		- The frictional force between the collar and the workpiece can be determined using the formula:
+		- F_friction_collar = μ_collar * F_clamping
+		- where μ_collar is the coefficient of friction between the collar and the workpiece.
+		- Substituting the given value, we get:
+		- F_friction_collar = 0.15 * F_clamping
+		- Substituting these values in the equation for F_clamping and solving, we get:
+		- F_clamping = 2π * (0.15) * (0.5 in) * (8 in) * (σ_yielding) / (0.75 in + 8 in) = 1540 lbf
+		- Therefore, the clamping force is 1540 lbf.
 	- **(c) **Using the force from part (a), determine the factor of safety for yielding at the interface of the screw body and the base of the first engaged thread, assuming the first thread carries 38 percent of the total clamping force.
 		- Factor of safety for yielding at the interface of the screw body and the base of the first engaged thread: FS_yielding = σ_yielding / (F_clamping * 0.38 / (π/4 * (0.75 in)^2 / 6) / (π/4 * (0.75 in - 0.9743/6 in) * (0.5 * (0.75 in - 1.0825/6 in))) = 2.1
 		- ![Picture1-4-1.png](../assets/Picture1-4-1_1680896755335_0.png){:height 209, :width 208}
