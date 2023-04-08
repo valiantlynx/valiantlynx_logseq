@@ -107,10 +107,6 @@
   
   Additionally, the use of regenerative braking systems on the hyperloop pods could help to reduce the energy requirements of the system and further decrease the need for large-scale energy storage. Regenerative braking systems convert kinetic energy into electrical energy, which can be stored in batteries or other energy storage systems for later use.
   
-  
-  
-  4 / 4
-  
   which battery is best to use here.the required energy storage capacity is as much as possible while still being cost effective.the size and weight of the battery its prefurable to have many small modules of like maxsimum 3m * 3m * 7m.
   the operating temperature range is 20 -28 celcious. 
   the lowest it could ever be is  2.8 celcious, this is extreme happened once in 73 years
@@ -153,10 +149,6 @@
 - Eos Energy Storage: Eos is a US-based company that specializes in zinc-based batteries for energy storage. They offer a low-cost, high-performance alternative to lithium-ion batteries, and have installed projects in several countries, including the United States, India, and Australia.
   
   It's important to note that the cost of energy storage systems can vary widely depending on the specific requirements of the project, so it's worth getting quotes from several different companies to compare. Additionally, shipping and installation costs may also factor into the overall cost, so it may be more cost-effective to work with a local supplier if possible.
-  
-  
-  
-  2 / 2
   
   high-temperature lithium-ion battery with an energy density of 200 Wh/kg and a module weight of 10,000 kg, each module would have an energy capacity of approximately 12,600 kWh.
   the shiping is to mombasa port.
