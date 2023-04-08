@@ -58,15 +58,11 @@
     In summary, while it is possible to power a hyperloop system using solar panels that are available today, the feasibility of the project would depend on several factors, such as the size of the system, the efficiency of the solar panels, and the energy requirements of the system. Additionally, the cost of such a system would be substantial and would require significant investment to build and maintain.
   
   
-  
-  
     would be enough to cover the top 90 degrees of the hyper loop in solar panels along the whole route.  
     the loop is 3m diameter or if its cuboid 3 * 3 m in area and a length of 800 km. the train would be modular pods of 7m in length. the area should be within 3 width and 3 height or at least more than 2.5 width and 2.7 height. It will have a weight of 8000 kg and 1000kph when fully loades with humans 
     but when fully loaded with cargo, a weight of 27 000kg and 300kph. the shape is not decided, go with the most practical eficient cost effective.
     Assuming an average efficiency of 18% for the solar panels and an average solar radiation of 1000 watts per square meter.
     the thought is a train from nairobi kenya to mandera kenya. the time that is needed to be for trave is the time it would take to travel that distance. this is the extremes in reality it would be something like a network of  typer loops with connections every 100 km
-  
-    2 / 2
   
     Covering the top 90 degrees of the hyperloop tube with solar panels along the whole route could provide a significant amount of energy for the system, but the feasibility of this approach would still depend on several factors, such as the efficiency of the solar panels, the energy requirements of the system, and the cost of installing and maintaining the solar panels.
   
