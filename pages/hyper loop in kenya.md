@@ -24,7 +24,7 @@
   
 
   
-  what of a fusion  of a hyperloop sistem that uses diamagnetism of materials to be as les power-hungry, for example niodenium allong the middle of the four sides of the train, and bismuth or something allong coresponding four sides of the hyper loop
+ - what of a fusion  of a hyperloop sistem that uses diamagnetism of materials to be as les power-hungry, for example niodenium allong the middle of the four sides of the train, and bismuth or something allong coresponding four sides of the hyper loop
   
   The concept of using diamagnetism in a hyperloop system is an interesting idea, but it is currently not practical for several reasons.
   
