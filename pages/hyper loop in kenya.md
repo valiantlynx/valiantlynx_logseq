@@ -63,7 +63,7 @@
   
 
   
-  is this possible with the solar panels existing today use the average solar panel for calculation. prefurebly the cheapest
+ - is this possible with the solar panels existing today use the average solar panel for calculation. prefurebly the cheapest
   
   It is possible to power a hyperloop system using solar panels that are available today, but the feasibility of the project would depend on several factors, such as the size of the hyperloop system, the efficiency of the solar panels, and the energy requirements of the system.
   
