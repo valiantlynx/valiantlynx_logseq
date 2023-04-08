@@ -10,7 +10,7 @@
   
 
   
-  is there ideas that are less power hungry. im thinking something that can be powered by solar panels at the top of the train tunnel tube
+ - is there ideas that are less power hungry. im thinking something that can be powered by solar panels at the top of the train tunnel tube
   
   There are several ideas for transportation systems that are less power-hungry and can be powered by renewable energy sources such as solar panels.
   
