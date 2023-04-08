@@ -38,7 +38,7 @@
   
 
   
-  is there a way to boost diamagenetism
+ - is there a way to boost diamagenetism
   
   Diamagnetism is a fundamental property of materials, and it cannot be easily "boosted" beyond the limits of the material's properties. However, there are some ways to enhance the diamagnetic properties of a material to a certain extent.
   
@@ -50,7 +50,7 @@
   
 
   
-  if i have a hyperloop system and want to use electromagnetic propulsion. how can i make the train float.
+  - if i have a hyperloop system and want to use electromagnetic propulsion. how can i make the train float.
   it should be energy efficient able to run on solar panels along the outside of the hyperloop and saves the energy on a battery at the bottom the hyperloop section
   
   To make a hyperloop train float using electromagnetic propulsion, you can use a type of magnetic levitation called electrodynamic levitation, also known as Inductrack. This technology uses a series of permanent magnets and conducting coils to produce a magnetic field that repels the train and levitates it above the track. This method of levitation is energy-efficient because it only requires energy to switch the coils on and off, and there is no need for a constant power supply to maintain levitation.
