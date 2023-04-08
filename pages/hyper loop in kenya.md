@@ -59,7 +59,6 @@
   
   
   
-    4 / 4
   
     would be enough to cover the top 90 degrees of the hyper loop in solar panels along the whole route.  
     the loop is 3m diameter or if its cuboid 3 * 3 m in area and a length of 800 km. the train would be modular pods of 7m in length. the area should be within 3 width and 3 height or at least more than 2.5 width and 2.7 height. It will have a weight of 8000 kg and 1000kph when fully loades with humans 
