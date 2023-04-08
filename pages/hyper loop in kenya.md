@@ -1,6 +1,6 @@
 - can i make a floating train using magnets and bismish
   
-  A floating train using magnets and bismuth is not a practical idea. While magnets can be used for magnetic levitation (maglev) trains, bismuth is not commonly used in such applications.
+  - A floating train using magnets and bismuth is not a practical idea. While magnets can be used for magnetic levitation (maglev) trains, bismuth is not commonly used in such applications.
   
   Maglev trains use powerful magnets to lift the train off the ground and propel it forward without touching the rails. The magnets repel the train's magnets, creating a levitation effect that allows the train to "float" above the tracks. However, maglev trains typically use superconducting magnets made of materials such as niobium-titanium alloys, rather than bismuth.
   
