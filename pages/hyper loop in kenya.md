@@ -8,7 +8,7 @@
   
   In addition, even if a floating train using magnets and bismuth were technically feasible, it would likely be prohibitively expensive and difficult to build and maintain. Other maglev train technologies, such as those that use superconducting magnets or electromagnetic propulsion, are already in use or in development and may be more practical alternatives.
   
-  ![meliodas5770@gmail.com](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F2576a423b7bd900c32a28c203be7899c%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fme.png&w=64&q=75)
+
   
   is there ideas that are less power hungry. im thinking something that can be powered by solar panels at the top of the train tunnel tube
   
