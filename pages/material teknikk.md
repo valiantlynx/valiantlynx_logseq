@@ -20,6 +20,7 @@
 - ![LFOppgave 10 BruddAnalyse.pdf](../assets/LFOppgave_10_BruddAnalyse_1677067946541_0.pdf)
 - [[oppgave 11: bruddanalyse]]
 - [[opgave 12]]
+- [[oppgave 13]]
 -
 -
 -
