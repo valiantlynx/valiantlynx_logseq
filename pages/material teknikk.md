@@ -24,6 +24,7 @@
 -
 -
 -
+-
 - Apetur
 - Når vi fryser vann går det gjennom en slush periode. Her lages det føst skim som vokser til de bli korn. dette vokse prosses reser korn seg av urene metal. det betyr ved korngerense er det høyes legeringer. forklar mer i detalje
   collapsed:: true
