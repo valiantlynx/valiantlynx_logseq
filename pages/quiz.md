@@ -3,15 +3,15 @@
 - 3 a. 111
 - 4 b. 110
 - 5 c. FCC
-  6 b. Likeaksende korn
-  7 b. Senker E-modulen
-  8 a. Korngrense
-  9 a. Bidrar I plastisk deformasjon
-  10 c. korn forlengelse
-  11 b. Øker Strekkfasthet
-  12 b. Mellom flytegrense og fasthetsgrense
-  13 b. Des lavere rekrystalisasjons temperatur
-  14 a. Blir det same kornene som deformerer seg for hver spenningssyklus
+- 6 b. Likeaksende korn
+- 7 b. Senker E-modulen
+- 8 a. Korngrense
+- 9 a. Bidrar I plastisk deformasjon
+- 10 c. korn forlengelse
+- 11 b. Øker Strekkfasthet
+- 12 b. Mellom flytegrense og fasthetsgrense
+- 13 b. Des lavere rekrystalisasjons temperatur
+- 14 a. Blir det same kornene som deformerer seg for hver spenningssyklus
   15 a. Har vi en temperatur forløp
   16 b. Har en betydelig effekt på spesifikkvarme
   17 c. Ved konstant temperatur
