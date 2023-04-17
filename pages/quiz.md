@@ -17,14 +17,14 @@
 - 17 c. Ved konstant temperatur
 - 18 c. En fast fase omdanner seg til to faste faser
 - 19 c. Eutektoid fase i stål
-  20 b. Eutektoid fase i stål
-  21 c. Blir legeringen hardere i løpet av noen uker
-  22 b. Atomer i interstitielle posisjoner
-  23 a. Naturlig aldring
-  24 b. Utfeller harde partikler
-  25 f. Legeringens ledningsevne minker
-  26 b. Væske erosjon og kavitasjon
-  27 c. Både temperatur og Zn innehold
+- 20 b. Eutektoid fase i stål
+- 21 c. Blir legeringen hardere i løpet av noen uker
+- 22 b. Atomer i interstitielle posisjoner
+- 23 a. Naturlig aldring
+- 24 b. Utfeller harde partikler
+- 25 f. Legeringens ledningsevne minker
+- 26 b. Væske erosjon og kavitasjon
+- 27 c. Både temperatur og Zn innehold
   28 b. Korrosjonsbestandige
   29 c. Plan defect
   30 a. Plastisk deformasjon starter
