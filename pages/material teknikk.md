@@ -21,6 +21,7 @@
 - [[oppgave 11: bruddanalyse]]
 - [[opgave 12]]
 - [[oppgave 13: Bruddanalyse]]
+- [[quiz]]
 -
 -
 -
