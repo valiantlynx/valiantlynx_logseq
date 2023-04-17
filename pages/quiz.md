@@ -32,16 +32,16 @@
 - 32 b. Volumfeil
 - 33 a. Kant dislokasjon
 - 34 a. Des mindre plastisitet
-  35 a. Økende deformasjonshastighet
-  36 c. Motstand mot plastisk deformasjon.
-  37 a. Litt over flytegrense.
-  38 a. Sprøtt brudd.
-  39 a. Strålebølgelengde.
-  40 b. Sekundære elektroner.
-  41 c. Lys.
-  42 a. Kan brukes for magnetiske materialer.
-  43 b. Elektromagnetisk prøving.
-  44 a. Radigraf metode.
+- 35 a. Økende deformasjonshastighet
+- 36 c. Motstand mot plastisk deformasjon.
+- 37 a. Litt over flytegrense.
+- 38 a. Sprøtt brudd.
+- 39 a. Strålebølgelengde.
+- 40 b. Sekundære elektroner.
+- 41 c. Lys.
+- 42 a. Kan brukes for magnetiske materialer.
+- 43 b. Elektromagnetisk prøving.
+- 44 a. Radigraf metode.
   45 a. Oksygen.
   46 c. Lav pH verdi.
   47 c. Forskjell i evnen til å bli anode.
