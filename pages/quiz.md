@@ -12,11 +12,11 @@
 - 12 b. Mellom flytegrense og fasthetsgrense
 - 13 b. Des lavere rekrystalisasjons temperatur
 - 14 a. Blir det same kornene som deformerer seg for hver spenningssyklus
-  15 a. Har vi en temperatur forløp
-  16 b. Har en betydelig effekt på spesifikkvarme
-  17 c. Ved konstant temperatur
-  18 c. En fast fase omdanner seg til to faste faser
-  19 c. Eutektoid fase i stål
+- 15 a. Har vi en temperatur forløp
+- 16 b. Har en betydelig effekt på spesifikkvarme
+- 17 c. Ved konstant temperatur
+- 18 c. En fast fase omdanner seg til to faste faser
+- 19 c. Eutektoid fase i stål
   20 b. Eutektoid fase i stål
   21 c. Blir legeringen hardere i løpet av noen uker
   22 b. Atomer i interstitielle posisjoner
