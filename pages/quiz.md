@@ -42,9 +42,10 @@
 - 42 a. Kan brukes for magnetiske materialer.
 - 43 b. Elektromagnetisk prøving.
 - 44 a. Radigraf metode.
-  45 a. Oksygen.
-  46 c. Lav pH verdi.
-  47 c. Forskjell i evnen til å bli anode.
-  48 a. Eksperimentalt målt potensialforskjell.
-  49 b. Tap av elektroner.
-  50 a. Det samme som diffraksjonsvinkel.
+- 45 a. Oksygen.
+- 46 c. Lav pH verdi.
+- 47 c. Forskjell i evnen til å bli anode.
+- 48 a. Eksperimentalt målt potensialforskjell.
+- 49 b. Tap av elektroner.
+- 50 a. Det samme som diffraksjonsvinkel.
+-
