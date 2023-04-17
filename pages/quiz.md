@@ -13,3 +13,23 @@
 - b. Des lavere rekrystalisasjons temperatur
 - a. Blir det same kornene som deformerer seg for hver spenningssyklus
 - a. Har vi en temperatur forløp
+- b. Har en betydelig effekt på spesifikkvarme
+- c. Ved konstant temperatur
+- c. En fast fase omdanner seg til to faste faser
+- c. Eutektoid fase i stål
+- b. Eutektoid fase i stål
+- c. Blir legeringen hardere i løpet av noen uker
+- b. Atomer i interstitielle posisjoner
+- a. Naturlig aldring
+- b. Utfeller harde partikler
+- f. Legeringens ledningsevne minker
+- b. Væske erosjon og kavitasjon
+- c. Både temperatur og Zn innehold
+- b. Korrosjonsbestandige
+- c. Plan defect
+- a. Plastisk deformasjon starter
+- a. Maksimum last
+- b. Volumfeil
+- a. Kant dislokasjon
+- a. Des mindre plastisitet
+- a. Økende deformasjonshastighet
