@@ -25,13 +25,13 @@
 - 25 f. Legeringens ledningsevne minker
 - 26 b. Væske erosjon og kavitasjon
 - 27 c. Både temperatur og Zn innehold
-  28 b. Korrosjonsbestandige
-  29 c. Plan defect
-  30 a. Plastisk deformasjon starter
-  31 a. Maksimum last
-  32 b. Volumfeil
-  33 a. Kant dislokasjon
-  34 a. Des mindre plastisitet
+- 28 b. Korrosjonsbestandige
+- 29 c. Plan defect
+- 30 a. Plastisk deformasjon starter
+- 31 a. Maksimum last
+- 32 b. Volumfeil
+- 33 a. Kant dislokasjon
+- 34 a. Des mindre plastisitet
   35 a. Økende deformasjonshastighet
   36 c. Motstand mot plastisk deformasjon.
   37 a. Litt over flytegrense.
