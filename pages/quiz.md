@@ -1,1 +1,15 @@
--
+- b. FCC
+- c. Atomisk struktur
+- a. 111
+- b. 110
+- c. FCC
+- b. Likeaksende korn
+- b. Senker E-modulen
+- a. Korngrense
+- a. Bidrar I plastisk deformasjon
+- c. korn forlengelse
+- b. Øker Strekkfasthet
+- b. Mellom flytegrense og fasthetsgrense
+- b. Des lavere rekrystalisasjons temperatur
+- a. Blir det same kornene som deformerer seg for hver spenningssyklus
+- a. Har vi en temperatur forløp
