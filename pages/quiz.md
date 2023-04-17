@@ -33,3 +33,18 @@
 - a. Kant dislokasjon
 - a. Des mindre plastisitet
 - a. Økende deformasjonshastighet
+- c. Motstand mot plastisk deformasjon.
+- a. Litt over flytegrense.
+- a. Sprøtt brudd.
+- a. Strålebølgelengde.
+- b. Sekundære elektroner.
+- c. Lys.
+- a. Kan brukes for magnetiske materialer.
+- b. Elektromagnetisk prøving.
+- a. Radigraf metode.
+- a. Oksygen.
+- c. Lav pH verdi.
+- c. Forskjell i evnen til å bli anode.
+- a. Eksperimentalt målt potensialforskjell.
+- b. Tap av elektroner.
+- a. Det samme som diffraksjonsvinkel.
