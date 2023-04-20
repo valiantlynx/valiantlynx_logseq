@@ -1,3 +1,3 @@
 - speed 24 m/s
 - 3.10^2 m/s^2
-- for a seed projectile
+- for a seed projectile that accelerates at the speed of a bu
