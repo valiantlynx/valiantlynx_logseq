@@ -1,3 +1,3 @@
 - speed 24 m/s
 - 3.10^2 m/s^2
-- for a seed projectile that accelerates at the speed of 24 m/s  and accelerate like a bullet 3 x10^6 m/s^2. it has the weight of 2 grams and surfave area of pi X 1
+- for a seed projectile that accelerates at the speed of 24 m/s  and accelerate like a bullet 3 x10^6 m/s^2. it has the weight of 2 grams and surfave area of pi X 0.01
