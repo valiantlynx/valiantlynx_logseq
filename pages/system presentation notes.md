@@ -1,3 +1,3 @@
 - speed 24 m/s
 - 3.10^2 m/s^2
-- for a seed projectile that accelerates at the speed of 24 m/s  and accelerate like a bullet 3 x10^6 m/s^2. it has the weight of 2 grams and surfave area of pi X 0.01^2. without air resistance it can travel 1 km range. if we apply air resistance what is the effect on range, speed,
+- for a seed projectile that accelerates at the speed of 24 m/s  and accelerate like a bullet 3 x10^6 m/s^2. it has the weight of 2 grams and surfave area of pi X 0.01^2. without air resistance it can travel 1 km range. if we apply air resistance what is the effect on range, speed, acceleration etc. assume numbers you
