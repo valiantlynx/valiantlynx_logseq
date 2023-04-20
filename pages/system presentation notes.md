@@ -1,7 +1,7 @@
 - hazelnut
 - speed 24 m/s
 - 3.10^2 m/s^2
--
+- 10N
 - ABS, Polycarbonate, Polypropylene
   id:: 6440e96f-7ca9-49e4-8233-52e60a568414
 -
