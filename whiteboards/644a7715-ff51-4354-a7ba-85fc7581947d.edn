@@ -1,0 +1,91 @@
+{:blocks (
+{:block/created-at 1682898248875
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 0
+:scale [1 1]
+:type "image"
+:assetId "aa52c290-e4fe-11ed-a546-1f197347dcc3"
+:size [763.3491083676267 728.151454955863]
+:opacity 1
+:id "aa5310b0-e4fe-11ed-a546-1f197347dcc3"
+:isAspectRatioLocked true
+:isLocked false
+:objectFit "fill"
+:point [1599.7603017832644 41.978870598994035]
+:parentId "644a7715-ff51-4354-a7ba-85fc7581947d"
+:nonce 1682601795008
+:clipping 0}}
+:block/updated-at 1682898248875} 
+{:block/created-at 1682898248875
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 1
+:scale [1 1]
+:scaleLevel "xl"
+:fill ""
+:type "box"
+:size [194.56805365035848 60.44215820759041]
+:strokeType "line"
+:strokeWidth 4.8
+:opacity 1
+:label "Radius 400 m"
+:id "b7e64120-e4fe-11ed-a546-1f197347dcc3"
+:fontWeight 400
+:noFill false
+:point [1944.0929873494886 633.7976101204083]
+:fontSize 48
+:parentId "644a7715-ff51-4354-a7ba-85fc7581947d"
+:nonce 1682601818078
+:italic false}}
+:block/updated-at 1682898248875} 
+{:block/created-at 1682898248875
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 2
+:scale [1 1]
+:scaleLevel "xl"
+:fill ""
+:type "box"
+:size [680.7744246303914 66.53878981862522]
+:strokeType "line"
+:strokeWidth 4.8
+:opacity 1
+:label "Seed Gun Positioning"
+:id "e4ebd400-e4fe-11ed-a546-1f197347dcc3"
+:fontWeight 400
+:noFill false
+:point [1643.8338805060203 40.900185947264106]
+:fontSize 48
+:parentId "644a7715-ff51-4354-a7ba-85fc7581947d"
+:nonce 1682601893336
+:italic false}}
+:block/updated-at 1682898248875})
+:pages (
+{:block/created-at 1682601749057
+:block/name "644a7715-ff51-4354-a7ba-85fc7581947d"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "644a7715-ff51-4354-a7ba-85fc7581947d"
+:name "644a7715-ff51-4354-a7ba-85fc7581947d"
+:bindings 
+{}
+:nonce 1
+:assets [
+{:id "aa52c290-e4fe-11ed-a546-1f197347dcc3"
+:type "image"
+:src "../assets/image_1682601794806_0.png"
+:size [347 331]}]
+:shapes-index ("aa5310b0-e4fe-11ed-a546-1f197347dcc3" "b7e64120-e4fe-11ed-a546-1f197347dcc3" "e4ebd400-e4fe-11ed-a546-1f197347dcc3")}}
+:block/type "whiteboard"
+:block/updated-at 1682898248874
+:block/uuid #uuid "644a7715-ff51-4354-a7ba-85fc7581947d"})}
