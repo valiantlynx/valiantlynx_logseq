@@ -72,6 +72,9 @@
 	- LATER 7:00am - Solidworks modelling3 study
 	  	SCHEDULED: <2023-04-04 Sun 07:00 ++1w>
 	- LATER 9:00am - Training
+	  :LOGBOOK:
+	  * State "DONE" from "LATER" [2023-05-01 Mon 01:41]
+	  :END:
 	  	SCHEDULED: <2023-04-04 Sun 09:00 ++1w>
 	- LATER 10:15am - Leave for school
 	  	SCHEDULED: <2023-04-04 Sun 10:15 ++1w>
@@ -82,6 +85,7 @@
 	- LATER 3:00pm - Mathematics1 study
 	  :LOGBOOK:
 	  CLOCK: [2023-05-01 Mon 01:41:00]--[2023-05-01 Mon 01:41:04] =>  00:00:04
+	  * State "DONE" from "LATER" [2023-05-01 Mon 01:41]
 	  :END:
 	  	SCHEDULED: <2023-04-04 Sun 15:00 ++1w>
 	- LATER 5:00pm - Dinner
@@ -92,6 +96,7 @@
 	  :LOGBOOK:
 	  CLOCK: [2023-05-01 Mon 01:32:50]--[2023-05-01 Mon 01:40:58] =>  00:08:08
 	  CLOCK: [2023-05-01 Mon 01:40:59]--[2023-05-01 Mon 01:41:02] =>  00:00:03
+	  * State "DONE" from "LATER" [2023-05-01 Mon 01:41]
 	  :END:
 	  	SCHEDULED: <2023-04-04 Sun 20:00 ++1w>
 - Thursday:
