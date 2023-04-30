@@ -79,4 +79,4 @@
 		     &= \left(\dfrac{16\times2.5}{\pi}\left[4\left(\dfrac{2.2\times482.4\times10^3}{191\times10^6}\right)^2+3\left(\dfrac{1.9\times340}{420\times10^6}\right)^2\right]^{\frac{1}{2}}\right)^{\frac{1}{3}} \\
 		     &= 0.05259\text{ m or }52.6\text{ mm}
 		   \end{align*}
-	- Therefore, the minimum allowable diameter of the 250-mm section of the shaft based on (a) a static yield analysis using the distortion energy theory is 43.01 mm and (b) based on a fatigue failure analysis is 52.6 mm.
+- The minimum allowable diameter of the 250-mm section of the shaft based on (a) a static yield analysis using the distortion energy theory is 43.01 mm and (b) based on a fatigue failure analysis is 52.6 mm.
