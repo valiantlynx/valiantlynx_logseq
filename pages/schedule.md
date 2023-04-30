@@ -80,14 +80,18 @@
 	- LATER 2:30pm - Lunch
 	  	SCHEDULED: <2023-04-04 Sun 14:30 ++1w>
 	- LATER 3:00pm - Mathematics1 study
+	  :LOGBOOK:
+	  CLOCK: [2023-05-01 Mon 01:41:00]--[2023-05-01 Mon 01:41:04] =>  00:00:04
+	  :END:
 	  	SCHEDULED: <2023-04-04 Sun 15:00 ++1w>
 	- LATER 5:00pm - Dinner
 	  	SCHEDULED: <2023-04-04 Sun 17:00 ++1w>
 	- LATER 6:00pm - Fysikk1 study
 	  	SCHEDULED: <2023-04-04 Sun 18:00 ++1w>
-	- NOW 8:00pm - Sleep
+	- LATER 8:00pm - Sleep
 	  :LOGBOOK:
-	  CLOCK: [2023-05-01 Mon 01:32:50]
+	  CLOCK: [2023-05-01 Mon 01:32:50]--[2023-05-01 Mon 01:40:58] =>  00:08:08
+	  CLOCK: [2023-05-01 Mon 01:40:59]--[2023-05-01 Mon 01:41:02] =>  00:00:03
 	  :END:
 	  	SCHEDULED: <2023-04-04 Sun 20:00 ++1w>
 - Thursday:
