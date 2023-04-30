@@ -41,7 +41,8 @@
 	  d &= \left[\frac{16n}{\pi S_y}\left[4\left(K_f m\right)^2+3\left(K_{fs}T\right)^2\right]^\frac{1}{2}\right]^\frac{1}{3} \\
 	  d &= \left[\frac{16\cdot 2.5}{\pi \cdot 420\cdot 10^6}\left[4\left(2.4\cdot 482.427\right)^2+3\cdot \left(2.1\cdot 340\right)^2\right]^\frac{1}{2}\right]^\frac{1}{3} \\
 	  d &= 0.04301 \text{ m or } d = 43.01 \text{ mm}
-	  \end{align*}\begin{enumerate}
+	  \end{align*} 
+	  \begin{enumerate}
 	  \item[(a)] Using the distortion energy theory for static yield analysis, the minimum allowable diameter of the 250-mm section of the shaft is given by:\begin{align*}
 	  d &= \left(\dfrac{16n}{\pi}\dfrac{3Ty}{2\pi d^3}\right)^{\frac{1}{4}} \\
 	  &= \left(\dfrac{16(2.5)}{\pi}\dfrac{3(340)}{2\pi (0.25)^3}\right)^{\frac{1}{4}} \\
