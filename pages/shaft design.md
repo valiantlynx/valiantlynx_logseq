@@ -80,5 +80,5 @@
 		     &= 0.05259\text{ m or }52.6\text{ mm}
 		   \end{align*}
 - The minimum allowable diameter of the 250-mm section of the shaft based on
-	- (a) a static yield analysis using the distortion energy theory is 43.01 mm
-	- (b) based on a fatigue failure analysis is 52.6 mm.
+	- (a) a static yield analysis using the distortion energy theory is **43.01 mm**
+	- (b) based on a fatigue failure analysis is **52.6 mm.**
