@@ -48,19 +48,19 @@
 	  &= \left(\dfrac{16(2.5)}{\pi}\dfrac{3(340)}{2\pi (0.25)^3}\right)^{\frac{1}{4}} \\
 	  &= 0.04301\text{ m or }43.01\text{ mm}
 	  \end{align*}
-	- \item[(b)] By fatigue-failure analysis, using the Goodman criterion:
-	  		- Surface factor:
+	- \item[(b)] By fatigue-failure analysis, using the Goodman criterion
+	- Surface factor:
 	   \begin{align*}
 	     K_a &= 4.51\times(S_{ut})^{-0.265} \\
 	     &= 4.51\times(560)^{-0.265} \\
 	     &= 0.84
 	   \end{align*}
-	  		- For $r=107$ mm:
+	- For $r=107$ mm:
 	   \begin{align*}
 	     q &= 0.72 \\
 	     q_s &= 0.77
 	   \end{align*}
-	  		- $K_f$ and $K_{fs}$:
+	- $K_f$ and $K_{fs}$:
 	   \begin{align*}
 	     K_f &= 1+q(2.7-1) \\
 	     &= 2.2 \\
