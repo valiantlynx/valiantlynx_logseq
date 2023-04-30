@@ -57,21 +57,18 @@
 	   \begin{align*}
 	     q &= 0.72 \\
 	     q_s &= 0.77
-	   \end{align*}
-	- $K_f$ and $K_{fs}$:
+	   \end{align*}$K_f$ and $K_{fs}$:
 	   \begin{align*}
 	     K_f &= 1+q(2.7-1) \\
 	     &= 2.2 \\
 	     K_{fs} &= 1+q_s(2.2-1) \\
 	     &= 1.9
-	   \end{align*}
-	- Endurance limit:
+	   \end{align*}Endurance limit:
 	   \begin{align*}
 	     S_e &= K_aK_fK_{fs}\dfrac{S_{ut}}{2} \\
 	     &= 0.84\times0.81\times0.5\times560 \\
 	     &= 191\text{ MPa}
-	   \end{align*}
-	- Diameter:
+	   \end{align*}Diameter:
 	   \begin{align*}
 	     d &= \left(\dfrac{16n}{\pi}\left[4\left(\dfrac{k_fM_a}{S_e}\right)^2+3\left(\dfrac{k_{fs}T_m}{S_y}\right)^2\right]^{\frac{1}{2}}\right)^{\frac{1}{3}} \\
 	     &= \left(\dfrac{16\times2.5}{\pi}\left[4\left(\dfrac{2.2\times482.4\times10^3}{191\times10^6}\right)^2+3\left(\dfrac{1.9\times340}{420\times10^6}\right)^2\right]^{\frac{1}{2}}\right)^{\frac{1}{3}} \\
