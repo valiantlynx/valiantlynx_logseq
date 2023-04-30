@@ -48,7 +48,7 @@
 	  &= \left(\dfrac{16(2.5)}{\pi}\dfrac{3(340)}{2\pi (0.25)^3}\right)^{\frac{1}{4}} \\
 	  &= 0.04301\text{ m or }43.01\text{ mm}
 	  \end{align*}
-	- By fatigue-failure analysis, using the Goodman criterion
+	- (b) By fatigue-failure analysis, using the Goodman criterion
 		- Surface factor:
 		   \begin{align*}
 		     K_a &= 4.51\times(S_{ut})^{-0.265} \\
