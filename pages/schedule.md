@@ -38,7 +38,15 @@
 	  	SCHEDULED: <2023-04-03 Sun 06:00 ++1w>
 	- LATER 6:30am - Breakfast
 	  	SCHEDULED: <2023-04-03 Sun 06:30 ++1w>
-	- LATER 7:00am - Solidworks modelling3 study
+	- NOW 7:00am - Solidworks modelling3 study
+	  :LOGBOOK:
+	  * State "DONE" from "LATER" [2023-05-01 Mon 01:32]
+	  CLOCK: [2023-05-01 Mon 01:32:22]--[2023-05-01 Mon 01:32:23] =>  00:00:01
+	  CLOCK: [2023-05-01 Mon 01:32:24]--[2023-05-01 Mon 01:32:24] =>  00:00:00
+	  CLOCK: [2023-05-01 Mon 01:32:27]--[2023-05-01 Mon 01:32:30] =>  00:00:03
+	  * State "DONE" from "NOW" [2023-05-01 Mon 01:32]
+	  CLOCK: [2023-05-01 Mon 01:32:35]
+	  :END:
 	  	SCHEDULED: <2023-04-03 Sun 07:00 ++1w>
 	- LATER 9:00am - Training
 	  	SCHEDULED: <2023-04-03 Sun 09:00 ++1w>
@@ -77,7 +85,10 @@
 	  	SCHEDULED: <2023-04-04 Sun 17:00 ++1w>
 	- LATER 6:00pm - Fysikk1 study
 	  	SCHEDULED: <2023-04-04 Sun 18:00 ++1w>
-	- LATER 8:00pm - Sleep
+	- NOW 8:00pm - Sleep
+	  :LOGBOOK:
+	  CLOCK: [2023-05-01 Mon 01:32:50]
+	  :END:
 	  	SCHEDULED: <2023-04-04 Sun 20:00 ++1w>
 - Thursday:
 	- LATER 6:00am - Wake up
