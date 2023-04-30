@@ -55,7 +55,7 @@
 	     &= 4.51\times(560)^{-0.265} \\
 	     &= 0.84
 	   \end{align*}
-	- - For $r=107$ mm:
+	  		- For $r=107$ mm:
 	   \begin{align*}
 	     q &= 0.72 \\
 	     q_s &= 0.77
