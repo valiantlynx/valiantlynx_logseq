@@ -48,27 +48,33 @@
 	  d &= \left(\dfrac{16n}{\pi}\dfrac{3Ty}{2\pi d^3}\right)^{\frac{1}{4}} \\
 	  &= \left(\dfrac{16(2.5)}{\pi}\dfrac{3(340)}{2\pi (0.25)^3}\right)^{\frac{1}{4}} \\
 	  &= 0.04301\text{ m or }43.01\text{ mm}
-	  \end{align*}\item[(b)] By fatigue-failure analysis, using the Goodman criterionSurface factor:
+	  \end{align*}
+	- \item[(b)] By fatigue-failure analysis, using the Goodman criterion
+	- Surface factor:
 	   \begin{align*}
 	     K_a &= 4.51\times(S_{ut})^{-0.265} \\
 	     &= 4.51\times(560)^{-0.265} \\
 	     &= 0.84
-	   \end{align*}For $r=107$ mm:
+	   \end{align*}
+	- For $r=107$ mm:
 	   \begin{align*}
 	     q &= 0.72 \\
 	     q_s &= 0.77
-	   \end{align*}$K_f$ and $K_{fs}$:
+	   \end{align*}
+	- $K_f$ and $K_{fs}$:
 	   \begin{align*}
 	     K_f &= 1+q(2.7-1) \\
 	     &= 2.2 \\
 	     K_{fs} &= 1+q_s(2.2-1) \\
 	     &= 1.9
-	   \end{align*}Endurance limit:
+	   \end{align*}
+	- Endurance limit:
 	   \begin{align*}
 	     S_e &= K_aK_fK_{fs}\dfrac{S_{ut}}{2} \\
 	     &= 0.84\times0.81\times0.5\times560 \\
 	     &= 191\text{ MPa}
-	   \end{align*}Diameter:
+	   \end{align*}
+	- Diameter:
 	   \begin{align*}
 	     d &= \left(\dfrac{16n}{\pi}\left[4\left(\dfrac{k_fM_a}{S_e}\right)^2+3\left(\dfrac{k_{fs}T_m}{S_y}\right)^2\right]^{\frac{1}{2}}\right)^{\frac{1}{3}} \\
 	     &= \left(\dfrac{16\times2.5}{\pi}\left[4\left(\dfrac{2.2\times482.4\times10^3}{191\times10^6}\right)^2+3\left(\dfrac{1.9\times340}{420\times10^6}\right)^2\right]^{\frac{1}{2}}\right)^{\frac{1}{3}} \\
