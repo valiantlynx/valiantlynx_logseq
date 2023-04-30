@@ -48,16 +48,12 @@
 	  d &= \left(\dfrac{16n}{\pi}\dfrac{3Ty}{2\pi d^3}\right)^{\frac{1}{4}} \\
 	  &= \left(\dfrac{16(2.5)}{\pi}\dfrac{3(340)}{2\pi (0.25)^3}\right)^{\frac{1}{4}} \\
 	  &= 0.04301\text{ m or }43.01\text{ mm}
-	  \end{align*}
-	-
-	- \item[(b)] By fatigue-failure analysis, using the Goodman criterion
-	- Surface factor:
+	  \end{align*}\item[(b)] By fatigue-failure analysis, using the Goodman criterionSurface factor:
 	   \begin{align*}
 	     K_a &= 4.51\times(S_{ut})^{-0.265} \\
 	     &= 4.51\times(560)^{-0.265} \\
 	     &= 0.84
-	   \end{align*}
-	- For $r=107$ mm:
+	   \end{align*}For $r=107$ mm:
 	   \begin{align*}
 	     q &= 0.72 \\
 	     q_s &= 0.77
