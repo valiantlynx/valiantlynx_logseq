@@ -49,37 +49,36 @@
 	  &= 0.04301\text{ m or }43.01\text{ mm}
 	  \end{align*}
 	- By fatigue-failure analysis, using the Goodman criterion
-	- Surface factor:
-	   \begin{align*}
-	     K_a &= 4.51\times(S_{ut})^{-0.265} \\
-	     &= 4.51\times(560)^{-0.265} \\
-	     &= 0.84
-	   \end{align*}
-	- For $r=107$ mm:
-	   \begin{align*}
-	     q &= 0.72 \\
-	     q_s &= 0.77
-	   \end{align*}
-	- $K_f$ and $K_{fs}$:
-	   \begin{align*}
-	     K_f &= 1+q(2.7-1) \\
-	     &= 2.2 \\
-	     K_{fs} &= 1+q_s(2.2-1) \\
-	     &= 1.9
-	   \end{align*}
-	- Endurance limit:
-	   \begin{align*}
-	     S_e &= K_aK_fK_{fs}\dfrac{S_{ut}}{2} \\
-	     &= 0.84\times0.81\times0.5\times560 \\
-	     &= 191\text{ MPa}
-	   \end{align*}
-	- Diameter:
-	   \begin{align*}
-	     d &= \left(\dfrac{16n}{\pi}\left[4\left(\dfrac{k_fM_a}{S_e}\right)^2+3\left(\dfrac{k_{fs}T_m}{S_y}\right)^2\right]^{\frac{1}{2}}\right)^{\frac{1}{3}} \\
-	     &= \left(\dfrac{16\times2.5}{\pi}\left[4\left(\dfrac{2.2\times482.4\times10^3}{191\times10^6}\right)^2+3\left(\dfrac{1.9\times340}{420\times10^6}\right)^2\right]^{\frac{1}{2}}\right)^{\frac{1}{3}} \\
-	     &= 0.05259\text{ m or }52.6\text{ mm}
-	   \end{align*}
-	- \item{b}Therefore, the minimum allowable diameter of the 250-mm section of the shaft based on (a) a static yield analysis using the distortion energy theory is 43.01 mm and (b) based on a fatigue failure analysis is 52.6 mm.
-	- \end{enumerate}
+		- Surface factor:
+		   \begin{align*}
+		     K_a &= 4.51\times(S_{ut})^{-0.265} \\
+		     &= 4.51\times(560)^{-0.265} \\
+		     &= 0.84
+		   \end{align*}
+		- For $r=107$ mm:
+		   \begin{align*}
+		     q &= 0.72 \\
+		     q_s &= 0.77
+		   \end{align*}
+		- $K_f$ and $K_{fs}$:
+		   \begin{align*}
+		     K_f &= 1+q(2.7-1) \\
+		     &= 2.2 \\
+		     K_{fs} &= 1+q_s(2.2-1) \\
+		     &= 1.9
+		   \end{align*}
+		- Endurance limit:
+		   \begin{align*}
+		     S_e &= K_aK_fK_{fs}\dfrac{S_{ut}}{2} \\
+		     &= 0.84\times0.81\times0.5\times560 \\
+		     &= 191\text{ MPa}
+		   \end{align*}
+		- Diameter:
+		   \begin{align*}
+		     d &= \left(\dfrac{16n}{\pi}\left[4\left(\dfrac{k_fM_a}{S_e}\right)^2+3\left(\dfrac{k_{fs}T_m}{S_y}\right)^2\right]^{\frac{1}{2}}\right)^{\frac{1}{3}} \\
+		     &= \left(\dfrac{16\times2.5}{\pi}\left[4\left(\dfrac{2.2\times482.4\times10^3}{191\times10^6}\right)^2+3\left(\dfrac{1.9\times340}{420\times10^6}\right)^2\right]^{\frac{1}{2}}\right)^{\frac{1}{3}} \\
+		     &= 0.05259\text{ m or }52.6\text{ mm}
+		   \end{align*}
+	- Therefore, the minimum allowable diameter of the 250-mm section of the shaft based on (a) a static yield analysis using the distortion energy theory is 43.01 mm and (b) based on a fatigue failure analysis is 52.6 mm.
 	-
 -
