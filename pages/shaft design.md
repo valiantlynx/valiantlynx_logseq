@@ -44,7 +44,7 @@
 	  \end{align*}
 	- \begin{enumerate}
 	  \item[(a)] Using the distortion energy theory for static yield analysis, the minimum allowable diameter of the 250-mm section of the shaft is given by:
-	  \begin{align*}
+	- \begin{align*}
 	  d &= \left(\dfrac{16n}{\pi}\dfrac{3Ty}{2\pi d^3}\right)^{\frac{1}{4}} \\
 	  &= \left(\dfrac{16(2.5)}{\pi}\dfrac{3(340)}{2\pi (0.25)^3}\right)^{\frac{1}{4}} \\
 	  &= 0.04301\text{ m or }43.01\text{ mm}
