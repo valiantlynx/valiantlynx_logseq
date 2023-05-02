@@ -1,5 +1,5 @@
 {:blocks (
-{:block/created-at 1683034923220
+{:block/created-at 1683035126462
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -19,8 +19,8 @@
 :parentId "645111c5-5dfd-4a29-8ff8-b1a3e7f0461b"
 :nonce 1683034629956
 :isComplete true}}
-:block/updated-at 1683034923220} 
-{:block/created-at 1683034923217
+:block/updated-at 1683035126462} 
+{:block/created-at 1683035126460
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -40,8 +40,8 @@
 :parentId "645111c5-5dfd-4a29-8ff8-b1a3e7f0461b"
 :nonce 1683034631572
 :isComplete true}}
-:block/updated-at 1683034923217} 
-{:block/created-at 1683034923218
+:block/updated-at 1683035126460} 
+{:block/created-at 1683035126460
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -61,8 +61,8 @@
 :parentId "645111c5-5dfd-4a29-8ff8-b1a3e7f0461b"
 :nonce 1683034633398
 :isComplete true}}
-:block/updated-at 1683034923218} 
-{:block/created-at 1683034923219
+:block/updated-at 1683035126460} 
+{:block/created-at 1683035126460
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -82,8 +82,8 @@
 :parentId "645111c5-5dfd-4a29-8ff8-b1a3e7f0461b"
 :nonce 1683034630788
 :isComplete true}}
-:block/updated-at 1683034923219} 
-{:block/created-at 1683034923219
+:block/updated-at 1683035126460} 
+{:block/created-at 1683035126461
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -103,8 +103,8 @@
 :parentId "645111c5-5dfd-4a29-8ff8-b1a3e7f0461b"
 :nonce 1683034634532
 :isComplete true}}
-:block/updated-at 1683034923219} 
-{:block/created-at 1683034923219
+:block/updated-at 1683035126461} 
+{:block/created-at 1683035126461
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -124,8 +124,8 @@
 :parentId "645111c5-5dfd-4a29-8ff8-b1a3e7f0461b"
 :nonce 1683034631847
 :isComplete true}}
-:block/updated-at 1683034923219} 
-{:block/created-at 1683034923219
+:block/updated-at 1683035126461} 
+{:block/created-at 1683035126461
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -145,8 +145,8 @@
 :parentId "645111c5-5dfd-4a29-8ff8-b1a3e7f0461b"
 :nonce 1683034630237
 :isComplete true}}
-:block/updated-at 1683034923219} 
-{:block/created-at 1683034923219
+:block/updated-at 1683035126461} 
+{:block/created-at 1683035126461
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -166,8 +166,8 @@
 :parentId "645111c5-5dfd-4a29-8ff8-b1a3e7f0461b"
 :nonce 1683034632471
 :isComplete true}}
-:block/updated-at 1683034923219} 
-{:block/created-at 1683034923219
+:block/updated-at 1683035126461} 
+{:block/created-at 1683035126461
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -187,8 +187,8 @@
 :parentId "645111c5-5dfd-4a29-8ff8-b1a3e7f0461b"
 :nonce 1683034632074
 :isComplete true}}
-:block/updated-at 1683034923219} 
-{:block/created-at 1683034923219
+:block/updated-at 1683035126461} 
+{:block/created-at 1683035126461
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -208,8 +208,8 @@
 :parentId "645111c5-5dfd-4a29-8ff8-b1a3e7f0461b"
 :nonce 1683034634329
 :isComplete true}}
-:block/updated-at 1683034923219} 
-{:block/created-at 1683034923220
+:block/updated-at 1683035126461} 
+{:block/created-at 1683035126462
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -229,8 +229,8 @@
 :parentId "645111c5-5dfd-4a29-8ff8-b1a3e7f0461b"
 :nonce 1683034630278
 :isComplete true}}
-:block/updated-at 1683034923220} 
-{:block/created-at 1683034923220
+:block/updated-at 1683035126462} 
+{:block/created-at 1683035126462
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -250,8 +250,8 @@
 :parentId "645111c5-5dfd-4a29-8ff8-b1a3e7f0461b"
 :nonce 1683034631275
 :isComplete true}}
-:block/updated-at 1683034923220} 
-{:block/created-at 1683034923220
+:block/updated-at 1683035126462} 
+{:block/created-at 1683035126462
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -271,8 +271,8 @@
 :parentId "645111c5-5dfd-4a29-8ff8-b1a3e7f0461b"
 :nonce 1683034634132
 :isComplete true}}
-:block/updated-at 1683034923220} 
-{:block/created-at 1683034923220
+:block/updated-at 1683035126462} 
+{:block/created-at 1683035126462
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -292,8 +292,8 @@
 :parentId "645111c5-5dfd-4a29-8ff8-b1a3e7f0461b"
 :nonce 1683034632894
 :isComplete true}}
-:block/updated-at 1683034923220} 
-{:block/created-at 1683034923219
+:block/updated-at 1683035126462} 
+{:block/created-at 1683035126461
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -313,8 +313,8 @@
 :parentId "645111c5-5dfd-4a29-8ff8-b1a3e7f0461b"
 :nonce 1683034634921
 :isComplete true}}
-:block/updated-at 1683034923219} 
-{:block/created-at 1683034923219
+:block/updated-at 1683035126461} 
+{:block/created-at 1683035126461
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -334,27 +334,7 @@
 :parentId "645111c5-5dfd-4a29-8ff8-b1a3e7f0461b"
 :nonce 1683034635545
 :isComplete true}}
-:block/updated-at 1683034923219} 
-{:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:stroke ""
-:index 16
-:scale [1 1]
-:scaleLevel "md"
-:fill ""
-:type "pencil"
-:points [[60.17042062058721 57.88543263183806 0.5] [54.838874955153216 47.22234130097013 0.5] [52.553921832021814 44.17571389304976 0.5] [49.5072944241015 41.12915621636489 0.5] [43.41410933949629 35.79757568531318 0.5] [35.03593626614196 28.94271631591903 0.5] [20.564578108182445 17.517950700262077 0.5] [16.756311281090902 14.471323292341822 0.5] [11.42476561565691 9.901417046079018 0.5] [7.616498788565366 6.854859369394148 0.5] [6.09318508460521 4.5699062462628035 0.5] [5.331545665433978 3.04655767668487 0.5] [4.569906246262761 2.284953123131345 0.5] [3.8082319614738225 2.284953123131345 0.5] [2.2849531231313733 0.761604553553525 0.5] [0 0 0.5]]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "1ea9b6a0-e8ef-11ed-b6e8-1de0056f98e0"
-:noFill true
-:point [-9.291720331950245 773.4756096310422]
-:parentId "645111c5-5dfd-4a29-8ff8-b1a3e7f0461b"
-:nonce 1683034922780
-:isComplete true}}
-:block/updated-at 1683034923219})
+:block/updated-at 1683035126461})
 :pages (
 {:block/uuid #uuid "645111c5-5dfd-4a29-8ff8-b1a3e7f0461b"
 :block/properties 
@@ -366,8 +346,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("70224cf0-e8ee-11ed-b6e8-1de0056f98e0" "704da2b0-e8ee-11ed-b6e8-1de0056f98e0" "704fc590-e8ee-11ed-b6e8-1de0056f98e0" "709ecff0-e8ee-11ed-b6e8-1de0056f98e0" "70e8d140-e8ee-11ed-b6e8-1de0056f98e0" "71175b50-e8ee-11ed-b6e8-1de0056f98e0" "7141c6b0-e8ee-11ed-b6e8-1de0056f98e0" "7162e340-e8ee-11ed-b6e8-1de0056f98e0" "719f9e20-e8ee-11ed-b6e8-1de0056f98e0" "71dfb460-e8ee-11ed-b6e8-1de0056f98e0" "7228f260-e8ee-11ed-b6e8-1de0056f98e0" "729f33d0-e8ee-11ed-b6e8-1de0056f98e0" "72bd9140-e8ee-11ed-b6e8-1de0056f98e0" "72db5270-e8ee-11ed-b6e8-1de0056f98e0" "73152720-e8ee-11ed-b6e8-1de0056f98e0" "737632e0-e8ee-11ed-b6e8-1de0056f98e0" "1ea9b6a0-e8ef-11ed-b6e8-1de0056f98e0")}}
-:block/updated-at 1683034923217
+:shapes-index ("70224cf0-e8ee-11ed-b6e8-1de0056f98e0" "704da2b0-e8ee-11ed-b6e8-1de0056f98e0" "704fc590-e8ee-11ed-b6e8-1de0056f98e0" "709ecff0-e8ee-11ed-b6e8-1de0056f98e0" "70e8d140-e8ee-11ed-b6e8-1de0056f98e0" "71175b50-e8ee-11ed-b6e8-1de0056f98e0" "7141c6b0-e8ee-11ed-b6e8-1de0056f98e0" "7162e340-e8ee-11ed-b6e8-1de0056f98e0" "719f9e20-e8ee-11ed-b6e8-1de0056f98e0" "71dfb460-e8ee-11ed-b6e8-1de0056f98e0" "7228f260-e8ee-11ed-b6e8-1de0056f98e0" "729f33d0-e8ee-11ed-b6e8-1de0056f98e0" "72bd9140-e8ee-11ed-b6e8-1de0056f98e0" "72db5270-e8ee-11ed-b6e8-1de0056f98e0" "73152720-e8ee-11ed-b6e8-1de0056f98e0" "737632e0-e8ee-11ed-b6e8-1de0056f98e0")}}
+:block/updated-at 1683035126460
 :block/created-at 1683034565417
 :block/type "whiteboard"
 :block/name "mathematics1"
