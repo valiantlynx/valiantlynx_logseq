@@ -1,2 +1,2 @@
 - add the key words at the bottom of the google search
-- when it exam period a website you can go to get bootcam tutored. like if i have an exam in a subject i didnt study for. i have a teacher to speed teach you through you
+- when it exam period a website you can go to get bootcamp tutored. like if i have an exam in a subject i didn't study for. i have a teacher to speed teach you through you
