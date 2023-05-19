@@ -1,2 +1,2 @@
 - add the key words at the bottom of the google search
-- when
+- when it exam period a website
