@@ -1,0 +1,2 @@
+- add the key words at the bottom of the google search
+- ai can
