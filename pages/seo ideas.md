@@ -4,3 +4,5 @@
 	- https://no.pinterest.com/
 	- https://www.wikipedia.org/
 	- https://www.fandom.com/
+	- https://medium.com/
+	-
