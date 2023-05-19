@@ -1,2 +1,2 @@
 - add the key words at the bottom of the google search
-- when it exam period a website you can go to get bootcam tuto
+- when it exam period a website you can go to get bootcam tutored. like
