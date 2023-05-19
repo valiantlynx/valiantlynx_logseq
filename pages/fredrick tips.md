@@ -1,1 +1,1 @@
-- read the iban number and then search if there is a pdf version
+- read the iban number and then search if there is a pdf version online of the book
