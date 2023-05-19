@@ -1,2 +1,2 @@
 - when it exam period a website you can go to get bootcamp tutored. like if i have an exam in a subject i didn't study for. i have a teacher to speed teach you through it.
-	-
+	- there can also be a ai teacher just waiting for
