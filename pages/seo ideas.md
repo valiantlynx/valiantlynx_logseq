@@ -1,4 +1,6 @@
 - add the key words at the bottom of the google search
 - i check the key word i want and put my website on the already ranking website
 - post my website link on legit bonafied websites like:
+	- https://no.pinterest.com/
+	- https://www.wikipedia.org/
 	-
